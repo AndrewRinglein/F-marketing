@@ -8,13 +8,13 @@ The root page is the outreach dashboard. Each hall has its own `index.html` webs
 - `mcalister/`
 - `bosco/`
 
-Open **Email workshop**, enter your sender name and valid postal address, then click **Update emails**. On the published HTTPS site, website and plan links fill automatically. Copy the subject and formatted body into your email app.
+Open **Email workshop**, enter your sender name and valid postal address, then click **Update emails**. The live GitHub Pages website and plan links are already included, even in the local preview. Use **Send email** to open a prefilled draft in your email app, or use the copy buttons.
 
 **Contacts:** Bosco: Dany Benitez, `dbenitez@bosco.org`. McAlister development: `giving@mcalisterinc.org`. Hawaiian Gardens: no public email verified; call `562-402-6769` for the manager’s business email. Sources are in the dashboard.
 
 The sites demonstrate presales, text signup, loyalty, hot ball, and must-go. They create no real purchases, reservations, subscriptions, or rewards. Bosco also links to its existing BingoMeNow service for real purchases; the local sample cart is not transferred there.
 
-Text collection, loyalty, and presales lead the recommendations. **42% attendance growth over six months is an illustrative goal**, not a measured Frontier result or guarantee. Detailed findings and game/staffing qualifications are in the plans.
+Text collection, loyalty, and presales lead the recommendations. **Frontier supplied the 42% attendance increase over six months from its own presales experience.** Hawaiian Gardens and McAlister’s emails use this result. Detailed findings and game/staffing qualifications are in the plans.
 
 Hawaiian Gardens’ arrival times come from its July 2025 advertisement and need an operator refresh before official player launch. McAlister and Bosco use their published schedules. Hawaiian Gardens and McAlister prices are examples; Bosco uses published prices. All displayed hot-ball/must-go amounts and loyalty benefits are illustrative.
 
