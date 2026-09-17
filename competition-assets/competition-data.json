@@ -1,0 +1,5213 @@
+[
+  {
+    "id": "scout-st-joseph-of-cupertino-bingo",
+    "name": "St. Joseph of Cupertino Bingo",
+    "address": "10110 N De Anza Blvd, Cupertino, CA 95014",
+    "url": "https://stjosephcupertino.org/bingo",
+    "lat": 37.3246112,
+    "lng": -122.0315144,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Mon",
+      "Sat"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "~6 PM",
+        "session": "6:30 PM Early Bird / 7:15 PM main",
+        "program": "Knights of Columbus night. Early birds + main event until 10 PM."
+      },
+      "Sat": {
+        "doors": "~6 PM",
+        "session": "6:30 PM Early Bird / 7:15 PM main",
+        "program": "SJC Holy Name Society night. Early birds + main event until 10 PM."
+      }
+    },
+    "buyIn": "Parish bingo prices (modest)",
+    "notes": "Hosted by SJC Holy Name Society (Sat) and Knights of Columbus (Mon). Proceeds support parish school.",
+    "promotions": [
+      {
+        "days": [
+          "Mon",
+          "Sat"
+        ],
+        "title": "⛪ Parish Community Bingo",
+        "text": "Early birds 6:30 PM, main event 7:15–10 PM. Proceeds support SJC Parish School. Family-friendly community game."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-tuesday-night-bingo-morgan-hill-ccc",
+    "name": "Tuesday Night Bingo (Morgan Hill CCC)",
+    "address": "17000 Monterey Rd, Morgan Hill, CA 95037",
+    "url": "https://www.mhbingo.com/",
+    "lat": 37.1260122,
+    "lng": -121.6501042,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Tue"
+    ],
+    "schedule": {
+      "Tue": {
+        "doors": "4:30 PM",
+        "session": "6:30 PM",
+        "program": "Paper bingo, single-session weekly. Smaller community-style payouts."
+      }
+    },
+    "buyIn": "Small charity buy-in",
+    "notes": "Run by Friends of the Morgan Hill Senior Center at the Community & Cultural Center.",
+    "promotions": [
+      {
+        "days": [
+          "Tue"
+        ],
+        "title": "👥 Tuesday Night Community Game",
+        "text": "Single weekly session. Doors 4:30 PM, games 6:30 PM. Friendly local crowd, benefits the Morgan Hill Senior Center."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-live-oak-emerald-regime-bingo",
+    "name": "Live Oak Emerald Regime Bingo",
+    "address": "80 W Central Ave, Morgan Hill, CA 95037",
+    "url": "https://www.yelp.com/biz/live-oak-emerald-regime-bingo-morgan-hill",
+    "lat": 37.1307889,
+    "lng": -121.6577252,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Sat",
+      "Sun"
+    ],
+    "schedule": {
+      "Sat": {
+        "doors": "~4 PM",
+        "session": "4:15 PM – 10 PM",
+        "program": "Paper bingo, evening session. Concessions on-site."
+      },
+      "Sun": {
+        "doors": "~11 AM",
+        "session": "11:45 AM – 5:30 PM",
+        "program": "Paper bingo, afternoon session."
+      }
+    },
+    "buyIn": "Standard paper packages",
+    "notes": "Supports the Live Oak HS Emerald Regime band program.",
+    "promotions": [
+      {
+        "days": [
+          "Sat",
+          "Sun"
+        ],
+        "title": "🎺 Band Booster Weekend Bingo",
+        "text": "Weekend paper-bingo sessions supporting Live Oak HS Emerald Regime band. Concessions on-site."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-san-mateo-elks-lodge-1112",
+    "name": "San Mateo Elks Lodge #1112",
+    "address": "229 W 20th Ave, San Mateo, CA 94403",
+    "url": "https://www.sanmateoelks1112.org/bingo",
+    "lat": 37.5463762,
+    "lng": -122.3128151,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Fri"
+    ],
+    "schedule": {
+      "Fri": {
+        "doors": "~6 PM",
+        "session": "7 PM",
+        "program": "Standard paper bingo on alternating Fridays. Check Elks Lodge schedule for current dates."
+      }
+    },
+    "buyIn": "Lodge pricing",
+    "notes": "Bi-weekly Fridays (every other Fri). Open to public, lodge concessions available.",
+    "promotions": [
+      {
+        "days": [
+          "Fri"
+        ],
+        "title": "🦌 Elks Lodge Bi-Weekly Bingo",
+        "text": "Every other Friday at 7 PM. Check the lodge calendar for current dates (e.g. April 24, May 8, May 22, June 12)."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-boys-girls-club-orange-park-ssf",
+    "name": "Boys & Girls Club Orange Park (SSF)",
+    "address": "200 W Orange Ave (Orange Park Clubhouse), South San Francisco, CA 94080",
+    "url": "https://theclubs.org/",
+    "lat": 37.651449,
+    "lng": -122.427465,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Sun",
+      "Mon"
+    ],
+    "schedule": {
+      "Sun": {
+        "doors": "4:30 PM",
+        "session": "6:30 PM",
+        "program": "Themed bingo evening with special prizes."
+      },
+      "Mon": {
+        "doors": "4:30 PM",
+        "session": "6:30 PM",
+        "program": "Standard weekly bingo program."
+      }
+    },
+    "buyIn": "Family/community pricing",
+    "notes": "Themed nights and specials. Family-friendly venue; benefits Boys & Girls Clubs of North San Mateo County.",
+    "promotions": [
+      {
+        "days": [
+          "Sun"
+        ],
+        "title": "🎭 Themed Bingo Sundays",
+        "text": "Rotating themed nights with special prizes. Doors 4:30 PM, games 6:30 PM. Family-friendly."
+      },
+      {
+        "days": [
+          "Mon"
+        ],
+        "title": "🍀 Monday Night Standard",
+        "text": "Weekly Monday-night bingo program. Doors 4:30 PM, games 6:30 PM."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-sacbc-bingo-union-city",
+    "name": "SACBC Bingo (Union City)",
+    "address": "32975 Alvarado Niles Rd, Union City, CA 94587",
+    "url": "https://www.yelp.com/biz/sacbc-bingo-union-city",
+    "lat": 37.5928124,
+    "lng": -122.0452265,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Fri"
+    ],
+    "schedule": {
+      "Fri": {
+        "doors": "5 PM",
+        "session": "~7 PM main",
+        "program": "Friday-only paper bingo session, 5 PM–11 PM."
+      }
+    },
+    "buyIn": "Standard paper packages",
+    "notes": "Single Friday-night session. South Alameda County Bingo Charities.",
+    "promotions": [
+      {
+        "days": [
+          "Fri"
+        ],
+        "title": "🌉 Friday Night Charity Bingo",
+        "text": "Single weekly session, 5 PM – 11 PM. Friendly Union City crowd. Benefits South Alameda County charities."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-ohp-bingo-at-carpenters-hall",
+    "name": "OHP Bingo at Carpenters Hall",
+    "address": "1050 Mattox Rd (Carpenters Union Hall), Hayward, CA 94544",
+    "url": "https://www.facebook.com/bingoatcarpentershall/",
+    "lat": 37.6362,
+    "lng": -122.0875,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Tue",
+      "Wed",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "schedule": {
+      "Tue": {
+        "doors": "5 PM",
+        "session": "6:30 PM",
+        "program": "Paper bingo, evening session."
+      },
+      "Wed": {
+        "doors": "5 PM",
+        "session": "6:30 PM",
+        "program": "Paper bingo, evening session."
+      },
+      "Fri": {
+        "doors": "5 PM",
+        "session": "6:30 PM",
+        "program": "Paper bingo, evening session."
+      },
+      "Sat": {
+        "doors": "5 PM",
+        "session": "6:30 PM",
+        "program": "Paper bingo, evening session."
+      },
+      "Sun": {
+        "doors": "1 PM",
+        "session": "3:30 PM",
+        "program": "Sunday matinee session."
+      }
+    },
+    "buyIn": "Standard paper packages",
+    "notes": "Operation Helping People. Heavy 5-day weekly operation; benefits East Bay youth programs.",
+    "promotions": [
+      {
+        "days": [
+          "Tue",
+          "Wed",
+          "Fri",
+          "Sat"
+        ],
+        "title": "🏗️ Carpenters Hall Weekly",
+        "text": "Doors 5 PM, games 6:30 PM. Volunteer-run, supporting East Bay youth programs through Operation Helping People."
+      },
+      {
+        "days": [
+          "Sun"
+        ],
+        "title": "☀️ Sunday Matinee",
+        "text": "Earlier session — doors 1 PM, games 3:30 PM. Same charity proceeds, afternoon timing."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-santa-clara-sporting-club-bingo",
+    "name": "Santa Clara Sporting Club Bingo",
+    "address": "284 Brokaw Rd, Santa Clara, CA 95050",
+    "url": "https://www.santaclarasporting.com/bingo",
+    "lat": 37.3576472,
+    "lng": -121.9338631,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "schedule": {
+      "Fri": {
+        "doors": "4 PM",
+        "session": "Evening",
+        "program": "Paper bingo, payouts around $350/game."
+      },
+      "Sat": {
+        "doors": "10 AM",
+        "session": "Matinee",
+        "program": "Saturday matinee bingo, 10 AM – 5 PM."
+      },
+      "Sun": {
+        "doors": "10 AM",
+        "session": "Matinee",
+        "program": "Sunday matinee bingo, 10 AM – 5 PM."
+      }
+    },
+    "buyIn": "$21 – $50",
+    "notes": "Smaller payouts (~$350 per game) but consistent weekend programming.",
+    "promotions": [
+      {
+        "days": [
+          "Fri"
+        ],
+        "title": "⚽ Friday Sporting Bingo",
+        "text": "Buy-in $21–$50. Payouts around $350/game. Evening session, doors 4 PM."
+      },
+      {
+        "days": [
+          "Sat",
+          "Sun"
+        ],
+        "title": "🌞 Weekend Matinee",
+        "text": "Daytime bingo, 10 AM – 5 PM. Casual matinee crowd, smaller but consistent payouts."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-st-cecilia-collins-center-bingo",
+    "name": "St. Cecilia Collins Center Bingo",
+    "address": "2560 18th Ave, San Francisco, CA 94116",
+    "url": "https://www.stcecilia.com/",
+    "lat": 37.7414,
+    "lng": -122.4763,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Tue"
+    ],
+    "schedule": {
+      "Tue": {
+        "doors": "1:00 PM",
+        "session": "1:30 PM",
+        "program": "Afternoon bingo session 1:30 PM - 3:30 PM, standard paper packages"
+      }
+    },
+    "buyIn": "Standard paper packages",
+    "notes": "Long-running daytime parish bingo in the Sunset District benefiting St. Cecilia parish and school. Free on-site parking and senior-friendly afternoon timing.",
+    "promotions": [
+      {
+        "days": [
+          "Tue"
+        ],
+        "title": "☀️ Sunset Afternoon Session",
+        "text": "Sunset District favorite — doors 1 PM Tuesdays, games at 1:30 in the Collins Center. Friendly daytime crowd, plenty of parking, proceeds support St. Cecilia parish & school."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-st-kevin-s-wednesday-night-bingo",
+    "name": "St. Kevin's Wednesday Night Bingo",
+    "address": "704 Cortland Ave, San Francisco, CA 94110",
+    "url": "http://www.stkevinsf.org/wednesday-night-bingo.htm",
+    "lat": 37.7386171,
+    "lng": -122.4147512,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Wed"
+    ],
+    "schedule": {
+      "Wed": {
+        "doors": "5:30 PM",
+        "session": "7:00 PM",
+        "program": "Wednesday evening session, standard paper packages with progressive jackpot games"
+      }
+    },
+    "buyIn": "Standard paper packages",
+    "notes": "Beloved Bernal Heights neighborhood parish bingo. Wednesday-only — the one consistent weekday-evening charity bingo in central SF.",
+    "promotions": [
+      {
+        "days": [
+          "Wed"
+        ],
+        "title": "🌉 Bernal Heights Wednesday",
+        "text": "Hump-day bingo at St. Kevin's on Cortland Ave — games at 7 PM. Neighborhood vibe, parish-supported, easy Mission/Bernal access."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-all-souls-friday-night-bingo",
+    "name": "All Souls Friday Night Bingo",
+    "address": "315 Walnut Ave, South San Francisco, CA 94080",
+    "url": "https://www.allsoulsbingo.com/",
+    "lat": 37.6562403,
+    "lng": -122.4141775,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Fri"
+    ],
+    "schedule": {
+      "Fri": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM warm-ups / ~7:00 PM main",
+        "program": "Regular games pay $250, Progressive 1500 game pays up to $1,500"
+      }
+    },
+    "buyIn": "Standard paper packages with $250 regulars and Progressive 1500 jackpot",
+    "notes": "Friday Night BINGO at All Souls Parish in SSF — 50+ years running. Complimentary food and beverage, generous payouts.",
+    "promotions": [
+      {
+        "days": [
+          "Fri"
+        ],
+        "title": "🎉 50+ Years of Friday Night Bingo",
+        "text": "All Souls SSF — Fridays at 7 PM, doors at 4. Regulars pay $250, Progressive 1500 can hit $1,500. Free food & drink, 50 years strong on Walnut Ave."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-doelger-senior-center-bingo",
+    "name": "Doelger Senior Center Bingo",
+    "address": "101 Lake Merced Blvd, Daly City, CA 94015",
+    "url": "http://www.doelgercenter.com/",
+    "lat": 37.704475,
+    "lng": -122.4857794,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Tue",
+      "Sat"
+    ],
+    "schedule": {
+      "Tue": {
+        "doors": "Before 1 PM",
+        "session": "1:00 PM",
+        "program": "High Stakes Bingo in Cafe Doelger — afternoon session with the larger payouts"
+      },
+      "Sat": {
+        "doors": "Before 12:30 PM",
+        "session": "12:30 PM",
+        "program": "Social Bingo in Room 7 — smaller, social-style session"
+      }
+    },
+    "buyIn": "Standard paper packages",
+    "notes": "Daly City Doelger Center near Lake Merced — Tuesdays 'High Stakes', Saturdays social-style. Open to public.",
+    "promotions": [
+      {
+        "days": [
+          "Tue"
+        ],
+        "title": "💥 High Stakes Tuesday",
+        "text": "Doelger Center's High Stakes Bingo runs Tuesdays at 1 PM in Cafe Doelger. Daly City regulars, easy parking off Lake Merced Blvd."
+      },
+      {
+        "days": [
+          "Sat"
+        ],
+        "title": "🌞 Saturday Social Bingo",
+        "text": "Saturday afternoon Social Bingo at 12:30 in Room 7. Mellow, friendly — great for weekend daytime without the big-room intensity."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-san-bruno-senior-center-bingo",
+    "name": "San Bruno Senior Center Bingo",
+    "address": "1555 Crystal Springs Rd, San Bruno, CA 94066",
+    "url": "https://sanbruno.ca.gov/332/Bingo",
+    "lat": 37.6146198,
+    "lng": -122.4163714,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Mon",
+      "Wed",
+      "Thu",
+      "Fri"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "Before 1 PM",
+        "session": "1:10 PM",
+        "program": "Afternoon daytime session, public welcome"
+      },
+      "Wed": {
+        "doors": "Before 1 PM",
+        "session": "1:10 PM",
+        "program": "Afternoon daytime session, public welcome"
+      },
+      "Thu": {
+        "doors": "Before 5 PM",
+        "session": "5:00 PM",
+        "program": "Evening session — the public-friendly weeknight option"
+      },
+      "Fri": {
+        "doors": "Before 1 PM",
+        "session": "1:10 PM",
+        "program": "Afternoon daytime session"
+      }
+    },
+    "buyIn": "$3 suggested contribution",
+    "notes": "City-run public bingo open to all. Multiple sessions weekly. Contribution supports senior referral, transportation, lunch programs.",
+    "promotions": [
+      {
+        "days": [
+          "Thu"
+        ],
+        "title": "🌙 Thursday Evening Bingo",
+        "text": "San Bruno Senior Center runs a Thursday 5 PM evening session — non-members welcome, $3 covers snacks. Off I-280 on Crystal Springs."
+      },
+      {
+        "days": [
+          "Mon",
+          "Wed",
+          "Fri"
+        ],
+        "title": "☀️ Daytime Bingo San Bruno",
+        "text": "Afternoon bingo at 1:10 PM Mon/Wed/Fri. Public welcome, $3 contribution, low-stakes daytime game."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-st-timothy-s-parish-friday-bingo",
+    "name": "St. Timothy's Parish Friday Bingo",
+    "address": "1515 Dolan Ave, San Mateo, CA 94401",
+    "url": "http://www.sttims.us",
+    "lat": 37.5756825,
+    "lng": -122.3098684,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Fri"
+    ],
+    "schedule": {
+      "Fri": {
+        "doors": "5:00 PM",
+        "session": "7:00 PM",
+        "program": "Friday night session, standard paper packages benefiting St. Timothy parish and school"
+      }
+    },
+    "buyIn": "Standard paper packages",
+    "notes": "Classic Friday-night parish bingo in San Mateo. Easy 92/101 access, parish parking lot.",
+    "promotions": [
+      {
+        "days": [
+          "Fri"
+        ],
+        "title": "⛪ St. Tim's Friday Night",
+        "text": "Friday night bingo at St. Timothy's — doors 5, games 7. Parish-supported, neighborhood crowd, free parking on Dolan Ave."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-bingo4chef-livermore",
+    "name": "Bingo4CHEF Livermore",
+    "address": "3070 Pacific Ave, Livermore, CA 94550",
+    "url": "https://www.bingo4chef.org/",
+    "lat": 37.6762399,
+    "lng": -121.7583022,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Wed",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "schedule": {
+      "Wed": {
+        "doors": "5:00 PM",
+        "session": "6:30 PM",
+        "program": "8 Strips, 8 games at $750"
+      },
+      "Fri": {
+        "doors": "4:30 PM",
+        "session": "6:30 PM",
+        "program": "16 Strips + 8 Strips, 8 games at $1,000"
+      },
+      "Sat": {
+        "doors": "11:00 AM",
+        "session": "12:30 PM",
+        "program": "Matinee — 8 Strips, 8 games at $1,500"
+      },
+      "Sun": {
+        "doors": "11:30 AM",
+        "session": "1:00 PM",
+        "program": "Sunday matinee — 12 electronic packs w/ 72 faces + 2 electronic double action"
+      }
+    },
+    "buyIn": "Standard paper/electronic packages",
+    "notes": "Operated by Community Health and Education Foundation. Tri-Valley's main charity bingo.",
+    "promotions": [
+      {
+        "days": [
+          "Sat"
+        ],
+        "title": "💎 Saturday $1,500 Matinee",
+        "text": "8 strips with 8 games paying $1,500 each. Doors 11. Tri-Valley's biggest matinee."
+      },
+      {
+        "days": [
+          "Fri"
+        ],
+        "title": "🎯 Friday Double-Strip",
+        "text": "16 Strips + 8 Strips — 16 games paying $1,000 each. Doors 4:30."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-moose-lodge-1491-bingo",
+    "name": "Moose Lodge 1491 Bingo",
+    "address": "20835 Rutledge Rd, Castro Valley, CA 94546",
+    "url": "https://castrovalleymoose.org/",
+    "lat": 37.6935435,
+    "lng": -122.0850304,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Fri"
+    ],
+    "schedule": {
+      "Fri": {
+        "doors": "TBD",
+        "session": "Evening",
+        "program": "Bingo on the 2nd and 4th Fridays of the month"
+      }
+    },
+    "buyIn": "Standard paper packages",
+    "notes": "Hayward-Castro Valley Moose Lodge. 2nd/4th Fridays. 18+, lodge atmosphere.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-vfw-post-6435-bingo-antioch",
+    "name": "VFW Post 6435 Bingo (Antioch)",
+    "address": "815 Fulton Shipyard Rd, Antioch, CA 94509",
+    "url": "http://vfw6435.org/bingo/",
+    "lat": 38.0131875,
+    "lng": -121.798095,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Wed"
+    ],
+    "schedule": {
+      "Wed": {
+        "doors": "4:00 PM",
+        "session": "6:30 PM",
+        "program": "Early birds 6, bingo 6:45. 50/50, Queen of Hearts, canteen and gaming during breaks"
+      }
+    },
+    "buyIn": "Standard paper packages",
+    "notes": "Weekly Wednesday VFW bingo supporting veterans programs. Canteen on-site.",
+    "promotions": [
+      {
+        "days": [
+          "Wed"
+        ],
+        "title": "♣️ Queen of Hearts + 50/50",
+        "text": "Antioch VFW Wednesdays: doors 4, early birds 6, bingo 6:45. Queen of Hearts, 50/50 raffle, full canteen during breaks."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-v1st-veterans-first-bingo",
+    "name": "V1ST Veterans First Bingo",
+    "address": "3010 Willow Pass Rd, Concord, CA 94519",
+    "url": "https://v1stbingo.org/",
+    "lat": 37.9805913,
+    "lng": -122.0217691,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "9 AM / 2 PM",
+        "session": "10 AM & 3 PM",
+        "program": "Two daytime sessions, $36 buy-in pack"
+      },
+      "Tue": {
+        "doors": "9 AM / 2 PM",
+        "session": "10 AM & 3 PM",
+        "program": "Two daytime sessions"
+      },
+      "Wed": {
+        "doors": "9 AM / 2 PM",
+        "session": "10 AM & 3 PM",
+        "program": "Two daytime sessions"
+      },
+      "Thu": {
+        "doors": "9 AM / 2 PM",
+        "session": "10 AM & 3 PM",
+        "program": "Two daytime sessions"
+      },
+      "Fri": {
+        "doors": "9 AM / 2 PM",
+        "session": "10 AM & 3 PM",
+        "program": "Two daytime sessions"
+      },
+      "Sat": {
+        "doors": "9 AM / 2 PM",
+        "session": "10 AM & 3 PM",
+        "program": "Two daytime sessions"
+      }
+    },
+    "buyIn": "$36 first pack (two sets, 6 games per sheet, 5 pull tabs)",
+    "notes": "Daytime charity bingo run by V1ST Veterans First — proceeds build homes for homeless vets.",
+    "promotions": [
+      {
+        "days": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri",
+          "Sat"
+        ],
+        "title": "🇺🇸 Daytime Double Sessions",
+        "text": "Mon-Sat 10 AM and 3 PM. $36 pack: two sets, 6 games/sheet, 5 pull tabs. Proceeds house homeless veterans."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-antioch-senior-center-bingo",
+    "name": "Antioch Senior Center Bingo",
+    "address": "415 W 2nd St, Antioch, CA 94509",
+    "url": "https://www.antiochca.gov/recreation/senior-center/senior-center-activities/",
+    "lat": 38.0168131,
+    "lng": -121.811557,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Thu"
+    ],
+    "schedule": {
+      "Thu": {
+        "doors": "12:30 PM",
+        "session": "1:00 PM",
+        "program": "Cash bingo + special prize games, 1-3 PM"
+      }
+    },
+    "buyIn": "Low-cost senior pricing",
+    "notes": "Thursday afternoon public bingo at Antioch Senior Center, 1-3 PM.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-east-bay-charitable-fund-bingo-carpenter-s-hall",
+    "name": "East Bay Charitable Fund Bingo (Carpenter's Hall)",
+    "address": "1050 Mattox Rd, Hayward, CA 94544",
+    "url": "https://www.multiplayerbingo.com/mobile/directory/us/california.html",
+    "lat": 37.6362,
+    "lng": -122.0875,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "schedule": {
+      "Fri": {
+        "doors": "5:00 PM",
+        "session": "6:30 PM",
+        "program": "Evening session at Carpenter's Hall"
+      },
+      "Sat": {
+        "doors": "5:00 PM",
+        "session": "6:30 PM",
+        "program": "Evening session at Carpenter's Hall"
+      },
+      "Sun": {
+        "doors": "11:00 AM",
+        "session": "12:30 PM",
+        "program": "Sunday matinee"
+      }
+    },
+    "buyIn": "Standard paper packages",
+    "notes": "Separate operator at Carpenter's Hall Hayward (distinct from OHP).",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-ashland-little-league-bingo-carpenter-s-hall",
+    "name": "Ashland Little League Bingo (Carpenter's Hall)",
+    "address": "1050 Mattox Rd, Hayward, CA 94544",
+    "url": "https://www.ashlandlittleleague.org/",
+    "lat": 37.6362,
+    "lng": -122.0875,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Wed"
+    ],
+    "schedule": {
+      "Wed": {
+        "doors": "4:30 PM",
+        "session": "6:30 PM",
+        "program": "Wednesday evening at Carpenter's Hall until 10 PM"
+      }
+    },
+    "buyIn": "Standard paper packages",
+    "notes": "Wednesday bingo at Carpenter's Hall benefiting Ashland Little League youth baseball.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-napa-bingo-emporium",
+    "name": "Napa Bingo Emporium",
+    "address": "601 Silverado Trail, Napa, CA 94559",
+    "url": "https://napabingoemporium.com/",
+    "lat": 38.2959063,
+    "lng": -122.2752732,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "schedule": {
+      "Fri": {
+        "doors": "4:30 PM",
+        "session": "6:30 PM",
+        "program": "18 games $250+, flash up to $1,000. Friday benefits Napa United Soccer Club."
+      },
+      "Sat": {
+        "doors": "4:30 PM",
+        "session": "6:15 PM",
+        "program": "18 regular games + flash. Saturday benefits Napa HS Instrumental Music Boosters."
+      },
+      "Sun": {
+        "doors": "1:30 PM",
+        "session": "4:00 PM",
+        "program": "18 games $250+, flash up to $1,000. Sunday benefits Vintage HS Music & Choir."
+      }
+    },
+    "buyIn": "$22-$40",
+    "notes": "North Bay's primary dedicated charity bingo hall. Each session benefits different local school music/sports nonprofit.",
+    "promotions": [
+      {
+        "days": [
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "title": "⚡ Turbo Bingo Included",
+        "text": "Step up to $40 buy-in and the Turbo machine is included free — auto-daubs 72 extra cards with one button."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-777-bingo-hall",
+    "name": "777 Bingo Hall",
+    "address": "777 Sereno Dr, Vallejo, CA 94589",
+    "url": "https://www.yelp.com/biz/777-bingo-vallejo",
+    "lat": 38.1277714,
+    "lng": -122.2529823,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "4:00 PM",
+        "session": "7:00 PM",
+        "program": "Evening session"
+      },
+      "Tue": {
+        "doors": "4:00 PM",
+        "session": "7:00 PM",
+        "program": "Evening session"
+      },
+      "Wed": {
+        "doors": "4:00 PM",
+        "session": "7:00 PM",
+        "program": "Evening session"
+      },
+      "Thu": {
+        "doors": "4:00 PM",
+        "session": "7:00 PM",
+        "program": "Evening session"
+      },
+      "Fri": {
+        "doors": "4:00 PM",
+        "session": "7:00 PM",
+        "program": "Evening session"
+      },
+      "Sat": {
+        "doors": "3:00 PM",
+        "session": "6:00 PM",
+        "program": "Evening session"
+      },
+      "Sun": {
+        "doors": "12:00 PM",
+        "session": "3:00 PM",
+        "program": "Matinee only"
+      }
+    },
+    "buyIn": "$30-$40",
+    "notes": "Vallejo's go-to charity hall, 7 days/week. Reviewers cite $30-$40 buy-ins playing for $1,500-$2,000 prizes.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-san-rafael-goldenaires-bingo",
+    "name": "San Rafael Goldenaires Bingo",
+    "address": "618 B St, San Rafael, CA 94901",
+    "url": "https://www.srgoldenaires.org/",
+    "lat": 37.9694571,
+    "lng": -122.5292452,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Wed"
+    ],
+    "schedule": {
+      "Wed": {
+        "doors": "10:30 AM",
+        "session": "12:00 PM",
+        "program": "Lunch 11:30 AM-12:15, bingo at noon. Occasional Monday-evening specials."
+      }
+    },
+    "buyIn": "Senior-friendly, call 415-485-3348",
+    "notes": "Senior-oriented daytime bingo at San Rafael Community Center — Marin County's main charity bingo.",
+    "promotions": [
+      {
+        "days": [
+          "Wed"
+        ],
+        "title": "🍽️ Lunch Included",
+        "text": "Doors 10:30, hot lunch served 11:30-12:15, bingo begins at noon."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-refpa-friday-night-bingo-petaluma",
+    "name": "REFPA Friday Night Bingo (Petaluma)",
+    "address": "320 N McDowell Blvd, Petaluma, CA 94954",
+    "url": "https://refpa.org/bingo/",
+    "lat": 38.252017,
+    "lng": -122.6306846,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Fri"
+    ],
+    "schedule": {
+      "Fri": {
+        "doors": "4:30 PM",
+        "session": "6:30 PM",
+        "program": "Weekly Friday session. 18+."
+      }
+    },
+    "buyIn": "Contact REFPA",
+    "notes": "Hosted by Redwood Empire Foster Parents Association at Petaluma Community Center. 100% of proceeds fund scholarships for foster youth.",
+    "promotions": [
+      {
+        "days": [
+          "Fri"
+        ],
+        "title": "🎓 Foster Youth Scholarships",
+        "text": "Every dollar of proceeds goes to scholarships for foster youth in the Redwood Empire region."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-italian-men-s-club-bingo-sj-elks-lodge",
+    "name": "Italian Men's Club Bingo (SJ Elks Lodge)",
+    "address": "444 W Alma Ave, San Jose, CA 95110",
+    "url": "https://italianmensclub.org/",
+    "lat": 37.3185,
+    "lng": -121.895,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Mon"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "4:00 PM",
+        "session": "7:00 PM",
+        "program": "Flash sales 4:30, early birds 6:15, regular 7 PM"
+      }
+    },
+    "buyIn": "$15 single / $20 double (free $3 strip with 2+ packs)",
+    "notes": "Long-running Monday charity bingo at SJ Elks Lodge, Willow Glen. 18+, food & drink available.",
+    "promotions": [
+      {
+        "days": [
+          "Mon"
+        ],
+        "title": "🎂 Free Birthday Buy-In",
+        "text": "Free buy-in the week of your birthday."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-tafatolu-bingo",
+    "name": "Tafatolu Bingo",
+    "address": "3200 Patrick Henry Dr, Santa Clara, CA 95054",
+    "url": "https://www.tafatolubingo.com/",
+    "lat": 37.387,
+    "lng": -121.9744,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Sat"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "4:30 PM",
+        "session": "Evening",
+        "program": "Hall open 4:30 PM-9:30 PM"
+      },
+      "Tue": {
+        "doors": "4:30 PM",
+        "session": "Evening",
+        "program": "Hall open 4:30 PM-9:30 PM"
+      },
+      "Wed": {
+        "doors": "4:30 PM",
+        "session": "Evening",
+        "program": "Hall open 4:30 PM-9:30 PM"
+      },
+      "Sat": {
+        "doors": "9:30 AM",
+        "session": "Afternoon + Evening",
+        "program": "All-day Saturday, hall open 9:30 AM-9:30 PM"
+      }
+    },
+    "buyIn": "Varies by session",
+    "notes": "Tafa Tolu Congregational Christian Church of Samoa fundraiser. Samoan dishes available, all-volunteer staff.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-st-frances-cabrini-parish-bingo",
+    "name": "St. Frances Cabrini Parish Bingo",
+    "address": "15333 Woodard Rd, San Jose, CA 95124",
+    "url": "https://sfcabrini.org/parish-life/bingo/",
+    "lat": 37.2602,
+    "lng": -121.922,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Fri"
+    ],
+    "schedule": {
+      "Fri": {
+        "doors": "5:00 PM",
+        "session": "7:00 PM",
+        "program": "Early bird 6:30, regular 7"
+      }
+    },
+    "buyIn": "Modest parish buy-in",
+    "notes": "Friday night parish bingo in Cambrian Park / South SJ.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-rainbow-bingo-at-the-defrank-center",
+    "name": "Rainbow Bingo at the DeFrank Center",
+    "address": "938 The Alameda, San Jose, CA 95126",
+    "url": "https://www.defrankcenter.org/",
+    "lat": 37.3299,
+    "lng": -121.9081,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Wed"
+    ],
+    "schedule": {
+      "Wed": {
+        "doors": "6:15 PM",
+        "session": "6:15 PM",
+        "program": "Wednesday bingo/trivia hybrid, 6:15-9:30 PM"
+      }
+    },
+    "buyIn": "Low-cost community admission",
+    "notes": "Community bingo at Billy DeFrank LGBTQ+ Center. Small-stakes social bingo.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-saratoga-knights-of-columbus-bingo",
+    "name": "Saratoga Knights of Columbus Bingo",
+    "address": "19770 Saratoga-Los Gatos Rd, Saratoga, CA 95070",
+    "url": "https://www.saratogakofc246.com/bingo",
+    "lat": 37.253,
+    "lng": -122.0265,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Wed"
+    ],
+    "schedule": {
+      "Wed": {
+        "doors": "4:30 PM",
+        "session": "7:00 PM",
+        "program": "Tickets 6 PM, first game 7"
+      }
+    },
+    "buyIn": "Door packet from 6 PM",
+    "notes": "Weekly Wed KoC charity bingo. 18+, food + drink for purchase.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-santa-cruz-portuguese-hall-thursday-bingo",
+    "name": "Santa Cruz Portuguese Hall Thursday Bingo",
+    "address": "216 Evergreen St, Santa Cruz, CA 95060",
+    "url": "https://www.santacruzportuguesehall.org/bingo",
+    "lat": 36.9756,
+    "lng": -122.029,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Thu"
+    ],
+    "schedule": {
+      "Thu": {
+        "doors": "4:00 PM",
+        "session": "6:30 PM",
+        "program": "Early bird 6, regular 6:30. Paper and strip."
+      }
+    },
+    "buyIn": "Paper + strip packs at door",
+    "notes": "Long-running CPDES Thursday bingo. 18+, food + drink.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-slv-boosters-bingo",
+    "name": "SLV Boosters Bingo",
+    "address": "216 Evergreen St (Portuguese Hall), Santa Cruz, CA 95060",
+    "url": "https://slvboosters.org/bingo/",
+    "lat": 36.9756,
+    "lng": -122.029,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Wed"
+    ],
+    "schedule": {
+      "Wed": {
+        "doors": "Late afternoon",
+        "session": "6:30 PM",
+        "program": "Wednesday at Portuguese Hall"
+      }
+    },
+    "buyIn": "Paper packs at door",
+    "notes": "All-volunteer Wed bingo by SLV Boosters Club, funds San Lorenzo Valley schools/sports.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-watsonville-lions-wednesday-night-bingo",
+    "name": "Watsonville Lions Wednesday Night Bingo",
+    "address": "2601 E Lake Ave (Santa Cruz County Fairgrounds), Watsonville, CA 95076",
+    "url": "https://www.santacruzcountyfair.com/santa-cruz-county-fairgrounds-events/7-weekly-wednesday-night-bingo-7-20-22",
+    "lat": 36.9355,
+    "lng": -121.7472,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Wed"
+    ],
+    "schedule": {
+      "Wed": {
+        "doors": "3:00 PM",
+        "session": "6:30 PM",
+        "program": "Early keepers 5:50, early bird 6:15, regular 6:30"
+      }
+    },
+    "buyIn": "$25 first pack (incl. door prize draw), $5 each addl, $5 early bird",
+    "notes": "Long-running Watsonville/Freedom Lions charity bingo at Santa Cruz County Fairgrounds.",
+    "promotions": [
+      {
+        "days": [
+          "Wed"
+        ],
+        "title": "📅 1st Wed: Free Month Drawing",
+        "text": "1st Wednesday of the month: free month-of-bingo drawing."
+      },
+      {
+        "days": [
+          "Wed"
+        ],
+        "title": "🎡 2nd Wed: Wheel Spin",
+        "text": "2nd Wednesday: extra wheel spin promotion."
+      },
+      {
+        "days": [
+          "Wed"
+        ],
+        "title": "🔥 3rd Wed: Hot Ball",
+        "text": "3rd Wednesday: Hot Ball Bingo."
+      },
+      {
+        "days": [
+          "Wed"
+        ],
+        "title": "📺 Last Wed: TV Drawing",
+        "text": "Last Wednesday: TV drawing — save tickets all month."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "listed"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-aslsc-aptos-bingo",
+    "name": "ASLSC Aptos Bingo",
+    "address": "2555 Mar Vista Dr, Aptos, CA 95003",
+    "url": "https://www.aslsc.com/bingo.html",
+    "lat": 36.9789,
+    "lng": -121.9101,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Sun",
+      "Mon"
+    ],
+    "schedule": {
+      "Sun": {
+        "doors": "1:30 PM",
+        "session": "3:15 PM",
+        "program": "Sunday afternoon at Aptos Grange"
+      },
+      "Mon": {
+        "doors": "3:30 PM",
+        "session": "6:00 PM",
+        "program": "Monday evening at Aptos Grange"
+      }
+    },
+    "buyIn": "Paper packs at door",
+    "notes": "Two-session weekly bingo at Aptos Grange funding free/low-cost ASL interpreting. 100% to charity.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-salinas-park-n-play-bingo",
+    "name": "Salinas Park n Play Bingo",
+    "address": "333 N Main St, Salinas, CA 93901",
+    "url": "https://www.salinasparknplaybingo.com/",
+    "lat": 36.685,
+    "lng": -121.6555,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "4:00 PM",
+        "session": "6:30 PM",
+        "program": "Early bird 6:30, regular follows"
+      },
+      "Tue": {
+        "doors": "4:00 PM",
+        "session": "6:30 PM",
+        "program": "Early bird 6:30, regular follows"
+      },
+      "Wed": {
+        "doors": "4:00 PM",
+        "session": "6:30 PM",
+        "program": "Early bird 6:30, regular follows"
+      },
+      "Thu": {
+        "doors": "4:00 PM",
+        "session": "6:30 PM",
+        "program": "Early bird 6:30, regular follows"
+      },
+      "Fri": {
+        "doors": "4:00 PM",
+        "session": "6:30 PM",
+        "program": "Early bird 6:30, regular follows"
+      },
+      "Sat": {
+        "doors": "10:00 AM",
+        "session": "12:30 PM + 6:30 PM",
+        "program": "Matinee + evening, early bird both"
+      },
+      "Sun": {
+        "doors": "10:00 AM",
+        "session": "12:30 PM + 6:30 PM",
+        "program": "Matinee + evening"
+      }
+    },
+    "buyIn": "Multiple tiers per session",
+    "notes": "Large 7-day multi-charity Salinas hall. Proceeds split across rotating local charities.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-marina-831-bingo",
+    "name": "Marina 831 Bingo",
+    "address": "192 Paddon Pl, Marina, CA 93933",
+    "url": "https://www.marina831bingo.com/",
+    "lat": 36.6798,
+    "lng": -121.8023,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat"
+    ],
+    "schedule": {
+      "Tue": {
+        "doors": "4:30 PM",
+        "session": "6:15 PM",
+        "program": "Early birds 6:15, 10-strip evening program"
+      },
+      "Wed": {
+        "doors": "4:30 PM",
+        "session": "6:15 PM",
+        "program": "Early birds 6:15"
+      },
+      "Thu": {
+        "doors": "4:30 PM",
+        "session": "6:15 PM",
+        "program": "Early birds 6:15"
+      },
+      "Fri": {
+        "doors": "4:30 PM",
+        "session": "6:15 PM",
+        "program": "Early birds 6:15"
+      },
+      "Sat": {
+        "doors": "10:30 AM",
+        "session": "1:00 PM",
+        "program": "Saturday afternoon 10-strip"
+      }
+    },
+    "buyIn": "Strip packs at door",
+    "notes": "Filipino-American Center bingo, rotating charity groups. Known for big pots in a small hall.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-monterey-peninsula-avenue-of-flags-bingo",
+    "name": "Monterey Peninsula Avenue of Flags Bingo",
+    "address": "986 Hilby Ave (Oldemeyer Center), Seaside, CA 93955",
+    "url": "https://www.facebook.com/MPAOFSEASIDE/",
+    "lat": 36.6155,
+    "lng": -121.8483,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Sun"
+    ],
+    "schedule": {
+      "Sun": {
+        "doors": "5:00 PM",
+        "session": "6:15 PM",
+        "program": "Sunday night, games 6:15"
+      }
+    },
+    "buyIn": "Paper packs at door",
+    "notes": "Sunday night Oldemeyer Center bingo benefiting Monterey Peninsula Avenue of Flags veterans program. 18+.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-winners-bingo-stockton",
+    "name": "Winners Bingo Stockton",
+    "address": "1658 S Airport Way, Stockton, CA 95206",
+    "url": "https://www.winnersbingostockton.com/",
+    "lat": 37.9135,
+    "lng": -121.2715,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Sun",
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat"
+    ],
+    "schedule": {
+      "Sun": {
+        "doors": "Open",
+        "session": "Afternoon",
+        "program": "Strip games and pull tabs."
+      },
+      "Mon": {
+        "doors": "Open",
+        "session": "Machine Night",
+        "program": "Regular games pay $1,199 on electronics."
+      },
+      "Tue": {
+        "doors": "Open",
+        "session": "Evening",
+        "program": "Standard charity program."
+      },
+      "Wed": {
+        "doors": "Open",
+        "session": "Evening",
+        "program": "Standard charity program."
+      },
+      "Thu": {
+        "doors": "Open",
+        "session": "Afternoon + Evening",
+        "program": "All games $500, Triple Triple $1,000."
+      },
+      "Fri": {
+        "doors": "1 PM",
+        "session": "6 PM",
+        "program": "Double session; all games pay $2,000."
+      },
+      "Sat": {
+        "doors": "Open",
+        "session": "Late aft. + late night",
+        "program": "Strip games, paper specials, pull tabs."
+      }
+    },
+    "buyIn": "Varies by session; $250-$2,398 regulars + strips + pull tabs",
+    "notes": "Self-billed largest-payout charity hall in USA, at San Joaquin County Fairgrounds. 7 days/week, double sessions Thu & Fri.",
+    "promotions": [
+      {
+        "days": [
+          "Fri"
+        ],
+        "title": "💰 Friday $2,000 Games",
+        "text": "Every game pays $2,000. Doors 1 PM, start 6 PM."
+      },
+      {
+        "days": [
+          "Mon"
+        ],
+        "title": "🎰 Machine Night Bingo",
+        "text": "Monday is Machine Night – regulars pay $1,199 on electronics."
+      },
+      {
+        "days": [
+          "Thu"
+        ],
+        "title": "🎯 Triple Triple Thursday",
+        "text": "Double session – all games $500, Triple Triple pays $1,000."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-winners-bingo-tracy-uneed2",
+    "name": "Winners Bingo Tracy (Uneed2)",
+    "address": "1005 E Pescadero Ave Ste 167, Tracy, CA 95304",
+    "url": "https://www.winnersbingotracy.com/",
+    "lat": 37.728,
+    "lng": -121.408,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Mon",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "5 PM",
+        "session": "7 PM",
+        "program": "Evening — 75-ball with strip + dab specials."
+      },
+      "Fri": {
+        "doors": "5 PM",
+        "session": "7 PM",
+        "program": "Evening — 75-ball with strip + dab specials."
+      },
+      "Sat": {
+        "doors": "10 AM",
+        "session": "12 PM + late night",
+        "program": "Daytime + late-night session same day."
+      },
+      "Sun": {
+        "doors": "10 AM",
+        "session": "12 PM",
+        "program": "Sunday matinee."
+      }
+    },
+    "buyIn": "Standard paper + strips + pull tabs",
+    "notes": "Sister hall to Winners Stockton (Uneed2 charity). Northgate Village shops; classic 75/90-ball plus dab-style event games.",
+    "promotions": [
+      {
+        "days": [
+          "Sat"
+        ],
+        "title": "🌙 Saturday Late-Night Bingo",
+        "text": "Both noon session and late-night session — two chances same day."
+      },
+      {
+        "days": [
+          "Mon",
+          "Fri"
+        ],
+        "title": "🎟️ Weeknight Bingo at 7",
+        "text": "Doors 5, ball 7. Paper, strip, and pull tabs all available."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-bingo-ranch",
+    "name": "Bingo Ranch",
+    "address": "2200 Hoover Ave, Modesto, CA 95354",
+    "url": "https://www.yelp.com/biz/bingo-ranch-modesto",
+    "lat": 37.647,
+    "lng": -120.9755,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Tue",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "schedule": {
+      "Tue": {
+        "doors": "4 PM",
+        "session": "Evening",
+        "program": "Standard charity program."
+      },
+      "Fri": {
+        "doors": "4 PM",
+        "session": "Evening",
+        "program": "Standard charity program."
+      },
+      "Sat": {
+        "doors": "4 PM",
+        "session": "Evening",
+        "program": "Standard charity program."
+      },
+      "Sun": {
+        "doors": "11:30 AM",
+        "session": "Matinee",
+        "program": "Sunday afternoon."
+      }
+    },
+    "buyIn": "Call (209) 527-1212",
+    "notes": "Modesto favorite, clean well-lit room, friendly crowd. Closed Mon/Wed/Thu.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-urhai-bingo-assyrian-club",
+    "name": "Urhai Bingo (Assyrian Club)",
+    "address": "2016 N Central Ave, Ceres, CA 95307",
+    "url": "https://www.facebook.com/UrhaiBingo/",
+    "lat": 37.609,
+    "lng": -120.9518,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Sun",
+      "Tue",
+      "Wed",
+      "Fri",
+      "Sat"
+    ],
+    "schedule": {
+      "Sun": {
+        "doors": "11:30 AM",
+        "session": "Aft./Evening",
+        "program": "Open 11:30 AM – 10 PM."
+      },
+      "Tue": {
+        "doors": "11:30 AM",
+        "session": "Aft./Evening",
+        "program": "Open 11:30 AM – 10 PM."
+      },
+      "Wed": {
+        "doors": "11:30 AM",
+        "session": "Aft./Evening",
+        "program": "Open 11:30 AM – 10 PM."
+      },
+      "Fri": {
+        "doors": "11:30 AM",
+        "session": "Aft./Evening",
+        "program": "Open 11:30 AM – 10 PM."
+      },
+      "Sat": {
+        "doors": "11:30 AM",
+        "session": "Aft./Evening",
+        "program": "Open 11:30 AM – 10 PM."
+      }
+    },
+    "buyIn": "Call for current",
+    "notes": "Assyrian Club of Urhai since 1989. Full kitchen with Assyrian/Mediterranean + American menu. Closed Mon/Thu.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-castle-bingo",
+    "name": "Castle Bingo",
+    "address": "3119 S Central Ave, Ceres, CA 95307",
+    "url": "https://www.yelp.com/biz/castle-bingo-ceres",
+    "lat": 37.5848,
+    "lng": -120.952,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Mon",
+      "Wed",
+      "Thu",
+      "Sat",
+      "Sun"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "4 PM",
+        "session": "Evening",
+        "program": "Standard."
+      },
+      "Wed": {
+        "doors": "4 PM",
+        "session": "Evening",
+        "program": "Standard."
+      },
+      "Thu": {
+        "doors": "4 PM",
+        "session": "Evening",
+        "program": "Standard."
+      },
+      "Sat": {
+        "doors": "11 AM",
+        "session": "Day + Evening",
+        "program": "Daytime session 11 AM – 7 PM."
+      },
+      "Sun": {
+        "doors": "4 PM",
+        "session": "Evening",
+        "program": "Standard."
+      }
+    },
+    "buyIn": "Call (209) 538-9801",
+    "notes": "Long-running Ceres charity hall (since 1975). Closed Tue/Fri. Saturday only daytime session.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-monday-manteca-bingo-emory-hall",
+    "name": "Monday Manteca Bingo (Emory Hall)",
+    "address": "1028 W Yosemite Ave, Manteca, CA 95337",
+    "url": "https://oneloveco.org/monday-manteca-bingo",
+    "lat": 37.7965,
+    "lng": -121.228,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Mon"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "3:30 PM",
+        "session": "6 PM",
+        "program": "Full program; One Love Ball bonus + weekly/monthly drawings."
+      }
+    },
+    "buyIn": "Cash/credit/debit; on-site snack bar",
+    "notes": "One Love Community Outreach at The Emory Hall, downtown Manteca. One Love Ball B1 +$50.",
+    "promotions": [
+      {
+        "days": [
+          "Mon"
+        ],
+        "title": "🎱 One Love Ball Monday",
+        "text": "Every program game uses ONE LOVE BALL — bingo on B1 wins +$50. Doors 3:30, start 6 PM."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-friday-lodi-bingo-eagles-lodge",
+    "name": "Friday Lodi Bingo (Eagles Lodge)",
+    "address": "217 E Lodi Ave (Aerie 848), Lodi, CA 95240",
+    "url": "https://oneloveco.org/friday-lodi-bingo-1",
+    "lat": 38.1308,
+    "lng": -121.2746,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Fri"
+    ],
+    "schedule": {
+      "Fri": {
+        "doors": "3:30 PM",
+        "session": "6 PM",
+        "program": "Full program; One Love Ball bonus."
+      }
+    },
+    "buyIn": "Cash/credit/debit; full kitchen on-site",
+    "notes": "One Love Community Outreach inside Lodi Eagles Lodge. Same B1 +$50 promo as Manteca.",
+    "promotions": [
+      {
+        "days": [
+          "Fri"
+        ],
+        "title": "🦅 Eagles Lodge Friday Bingo",
+        "text": "Doors 3:30, ball 6 PM. Full kitchen + ONE LOVE BALL B1 +$50 bonus."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-lodi-italian-club-bingo",
+    "name": "Lodi Italian Club Bingo",
+    "address": "1041 S Miwok Dr, Lodi, CA 95240",
+    "url": "https://thelodiitalianclub.org/",
+    "lat": 38.1135,
+    "lng": -121.251,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "schedule": {
+      "Fri": {
+        "doors": "Evening",
+        "session": "Friday Night Bingo",
+        "program": "Weekly Friday-night charity bingo."
+      },
+      "Sat": {
+        "doors": "Weekend",
+        "session": "Bingo-Fest",
+        "program": "Weekend Bingo-Fest events."
+      },
+      "Sun": {
+        "doors": "Weekend",
+        "session": "Bingo-Fest",
+        "program": "Weekend Bingo-Fest events."
+      }
+    },
+    "buyIn": "Contact club",
+    "notes": "Italian-heritage social club on Miwok Dr. Weekly Fri + weekend Bingo-Fest. Italian dinners offered some nights.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-loel-senior-center-bingo",
+    "name": "LOEL Senior Center Bingo",
+    "address": "105 S Washington St, Lodi, CA 95240",
+    "url": "https://loelcenter.org/programs/games/",
+    "lat": 38.1322,
+    "lng": -121.2738,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Tue"
+    ],
+    "schedule": {
+      "Tue": {
+        "doors": "12:30 PM",
+        "session": "1 PM Early Bird, 1:00–3:45 PM games",
+        "program": "1st + 3rd Tuesday each month. 18+."
+      }
+    },
+    "buyIn": "Low-cost cards + snack bar",
+    "notes": "Non-profit senior center, public bingo 1st + 3rd Tuesday only. 18+. Snack bar with pastries/sandwiches.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-stockton-elks-lodge-218-bingo",
+    "name": "Stockton Elks Lodge #218 Bingo",
+    "address": "8900 Thornton Rd Ste 1, Stockton, CA 95209",
+    "url": "https://stockton-ca-218.elks.club/",
+    "lat": 38.026,
+    "lng": -121.3404,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Sun"
+    ],
+    "schedule": {
+      "Sun": {
+        "doors": "12 PM",
+        "session": "1 PM",
+        "program": "1st + 3rd Sundays; 1st-Sunday with breakfast 9-11."
+      }
+    },
+    "buyIn": "Lodge pricing",
+    "notes": "Twice-monthly Sun bingo (1st + 3rd). 1st-Sun paired with cooked-to-order breakfast 9-11 AM.",
+    "promotions": [
+      {
+        "days": [
+          "Sun"
+        ],
+        "title": "🥞 1st-Sunday Breakfast + Bingo",
+        "text": "First Sunday: cooked-to-order breakfast 9-11 AM, bingo 1 PM. Third Sunday bingo only."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-modesto-elks-lodge-1282-bingo",
+    "name": "Modesto Elks Lodge #1282 Bingo",
+    "address": "645 Charity Way, Modesto, CA 95356",
+    "url": "https://www.elks.org/lodges/home.cfm?lodgenumber=1282",
+    "lat": 37.692,
+    "lng": -120.993,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Thu"
+    ],
+    "schedule": {
+      "Thu": {
+        "doors": "Evening",
+        "session": "2-4 hour session",
+        "program": "Community bingo; pre-game cornhole, Connect Four, giant Jenga."
+      }
+    },
+    "buyIn": "Lodge pricing; snack bar",
+    "notes": "'Charity Way Banquet Hall' — Thursday community bingo + 'Cook Your Own' steak night. Cornhole, Connect Four, giant Jenga. 18+.",
+    "promotions": [
+      {
+        "days": [
+          "Thu"
+        ],
+        "title": "🥩 Cook-Your-Own + Bingo Thursdays",
+        "text": "Grill your own steak, then settle in for 2-4 hours of bingo. Games before the games."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-tracy-elks-lodge-2031-bingo",
+    "name": "Tracy Elks Lodge #2031 Bingo",
+    "address": "6400 W 11th St, Tracy, CA 95304",
+    "url": "https://tracy-ca-2031.elks.club/",
+    "lat": 37.732,
+    "lng": -121.464,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Sat"
+    ],
+    "schedule": {
+      "Sat": {
+        "doors": "12:30 PM",
+        "session": "2 PM",
+        "program": "Weekly lodge-style session."
+      }
+    },
+    "buyIn": "Cards from $1 each",
+    "notes": "Weekly Saturday bingo at Tracy Elks. Call (209) 835-4413 to confirm.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-manteca-senior-center-bingo",
+    "name": "Manteca Senior Center Bingo",
+    "address": "295 Cherry Ln, Manteca, CA 95337",
+    "url": "https://www.manteca.gov/departments/recreation-community-services/senior-center",
+    "lat": 37.796,
+    "lng": -121.215,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Fri"
+    ],
+    "schedule": {
+      "Fri": {
+        "doors": "5 PM",
+        "session": "6 PM",
+        "program": "First Friday of each month. $10 includes first pack."
+      }
+    },
+    "buyIn": "$10 entry + first pack",
+    "notes": "First Friday each month only. City-run senior center, low-buy-in community fundraiser.",
+    "promotions": [
+      {
+        "days": [
+          "Fri"
+        ],
+        "title": "👵 First-Friday Senior Bingo",
+        "text": "First Friday monthly at Manteca Senior Center. Doors 5, $10 gets you in + first pack."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "scout-lathrop-park-and-play-bingo",
+    "name": "Lathrop Park and Play Bingo",
+    "address": "15707 5th St (Senior Ctr lot), Lathrop, CA 95330",
+    "url": "https://www.ci.lathrop.ca.us/parksrec/page/park-and-play-bingo",
+    "lat": 37.8225,
+    "lng": -121.278,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Mon"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "Arrive before 1:30 PM",
+        "session": "1:30 PM",
+        "program": "Drive-up: stay in your car, honk when you bingo."
+      }
+    },
+    "buyIn": "Free / nominal city-rec fee",
+    "notes": "Drive-up bingo — stay in car, honk to claim a win. Pandemic-era program that became a Monday tradition.",
+    "promotions": [
+      {
+        "days": [
+          "Mon"
+        ],
+        "title": "🚗 Honk-to-Win Drive-Up",
+        "text": "Mon 1:30 PM at Lathrop Senior Center lot — stay in your car, honk when you bingo. Free city-rec program."
+      }
+    ],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": null,
+    "origin": "Bingo Scout",
+    "evidence": []
+  },
+  {
+    "id": "hawaiian-gardens",
+    "name": "The Bingo Club of Hawaiian Gardens",
+    "address": "21900 Norwalk Blvd, Hawaiian Gardens, CA 90716",
+    "url": "https://hawaiiangardensbingo.com/",
+    "lat": 33.82905875511,
+    "lng": -118.071224949356,
+    "matchedAddress": "21900 Norwalk Blvd, Hawaiian Gardens, California, 90716",
+    "coordinateSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=21900+Norwalk+Blvd%2C+Hawaiian+Gardens%2C+CA+90716&f=json&outFields=Match_addr",
+    "days": [
+      "Sun",
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat"
+    ],
+    "schedule": {
+      "Sun": {
+        "doors": "",
+        "session": "",
+        "program": "Seven nights a week · The current contact page lists seven nights; its hours field is blank."
+      },
+      "Mon": {
+        "doors": "",
+        "session": "",
+        "program": "Seven nights a week · The current contact page lists seven nights; its hours field is blank."
+      },
+      "Tue": {
+        "doors": "",
+        "session": "",
+        "program": "Seven nights a week · The current contact page lists seven nights; its hours field is blank."
+      },
+      "Wed": {
+        "doors": "",
+        "session": "",
+        "program": "Seven nights a week · The current contact page lists seven nights; its hours field is blank."
+      },
+      "Thu": {
+        "doors": "",
+        "session": "",
+        "program": "Seven nights a week · The current contact page lists seven nights; its hours field is blank."
+      },
+      "Fri": {
+        "doors": "",
+        "session": "",
+        "program": "Seven nights a week · The current contact page lists seven nights; its hours field is blank."
+      },
+      "Sat": {
+        "doors": "",
+        "session": "",
+        "program": "Seven nights a week · The current contact page lists seven nights; its hours field is blank."
+      }
+    },
+    "buyIn": "",
+    "notes": "The public site identifies the hall, address and accepted cards. Text signup, paid presales and loyalty enrollment were not visible.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Website",
+        "observed": "The public site identifies the hall, address and accepted cards. Text signup, paid presales and loyalty enrollment were not visible.",
+        "url": "https://hawaiiangardensbingo.com/"
+      },
+      {
+        "topic": "Operating days",
+        "observed": "The contact page advertises seven nights a week without filling in its hours field.",
+        "url": "https://hawaiiangardensbingo.com/contact.html"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "mcalister",
+    "name": "McAlister Institute Bingo",
+    "address": "1365 N Johnson Ave, El Cajon, CA 92020",
+    "url": "https://mcalisterinc.org/bingo/",
+    "lat": 32.813883809193,
+    "lng": -116.970935617368,
+    "matchedAddress": "1365 N JOHNSON AVE, EL CAJON, CA, 92020",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1365+N+Johnson+Ave%2C+El+Cajon%2C+CA+92020&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "schedule": {
+      "Fri": {
+        "doors": "2 PM",
+        "session": "6:30 PM",
+        "program": "Friday & Saturday · Early birds 6:10 PM"
+      },
+      "Sat": {
+        "doors": "2 PM",
+        "session": "6:30 PM",
+        "program": "Friday & Saturday · Early birds 6:10 PM"
+      },
+      "Sun": {
+        "doors": "10 AM",
+        "session": "1:30 PM",
+        "program": "Sunday · Early birds 1 PM"
+      }
+    },
+    "buyIn": "",
+    "notes": "Three-day schedule published. No text signup, presale checkout or loyalty enrollment visible on the reviewed bingo page.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Website",
+        "observed": "Three-day schedule published. No text signup, presale checkout or loyalty enrollment visible on the reviewed bingo page.",
+        "url": "https://mcalisterinc.org/bingo/"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "bosco",
+    "name": "Bosco Bingo · St. John Bosco High School",
+    "address": "13640 Bellflower Blvd, Bellflower, CA 90706",
+    "url": "https://www.bosco.org/get-involved/bingo",
+    "lat": 33.907159175812,
+    "lng": -118.125258108555,
+    "matchedAddress": "13640 BELLFLOWER BLVD, BELLFLOWER, CA, 90706",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=13640+Bellflower+Blvd%2C+Bellflower%2C+CA+90706&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Sat"
+    ],
+    "schedule": {
+      "Sat": {
+        "doors": "3 PM",
+        "session": "5 PM",
+        "program": "Saturday"
+      }
+    },
+    "buyIn": "Small pack $50 online / $60 at the window; Big Pack $100.",
+    "notes": "BingoMeNow buy-ins reserve seats. Online sales run Monday noon to Friday noon; the page advertises 10% off orders over $150.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "yes",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Presales",
+        "observed": "BingoMeNow buy-ins reserve seats. Online sales run Monday noon to Friday noon; the page advertises 10% off orders over $150.",
+        "url": "https://www.bosco.org/get-involved/bingo"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "vai-o-le-ola",
+    "name": "Vai O Le Ola Bingo",
+    "address": "5420 Clark Ave, Lakewood, CA 90712",
+    "url": "https://vaioleola.org/bingo-program",
+    "lat": 33.855068865882,
+    "lng": -118.13368160031,
+    "matchedAddress": "5420 CLARK AVE, LAKEWOOD, CA, 90712",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=5420+Clark+Ave%2C+Lakewood%2C+CA+90712&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Thu"
+    ],
+    "schedule": {
+      "Thu": {
+        "doors": "4:00 PM",
+        "session": "6:30 PM",
+        "program": "Thursday · Thursday night bingo"
+      }
+    },
+    "buyIn": "",
+    "notes": "Official bingo page lists Thursday doors at 4 PM, play at 6:30 PM, a dedicated bingo email, and Jesse Misa’alefua as manager.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Contact and schedule",
+        "observed": "Official bingo page lists Thursday doors at 4 PM, play at 6:30 PM, a dedicated bingo email, and Jesse Misa’alefua as manager.",
+        "url": "https://vaioleola.org/bingo-program"
+      },
+      {
+        "topic": "Player signups",
+        "observed": "Reviewed bingo page provides basic arrival details but no visible player text signup, presale checkout, or loyalty enrollment.",
+        "url": "https://vaioleola.org/bingo-program"
+      },
+      {
+        "topic": "Purpose",
+        "observed": "The church says bingo supports its local outreach and place of worship.",
+        "url": "https://vaioleola.org/bingo-program"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "duarte-elks",
+    "name": "Duarte Elks Bingo",
+    "address": "2436 Huntington Dr, Duarte, CA 91010",
+    "url": "https://www.duarteelks.org/Bingo.html",
+    "lat": 34.139628822118,
+    "lng": -117.95292078656,
+    "matchedAddress": "2436 E HUNTINGTON DR, DUARTE, CA, 91010",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2436+Huntington+Dr%2C+Duarte%2C+CA+91010&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Tue"
+    ],
+    "schedule": {
+      "Tue": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Tuesday · Weekly Tuesday session"
+      }
+    },
+    "buyIn": "",
+    "notes": "Official Elks August 25, 2026 event lists recurring Tuesday bingo, doors at 4 PM and first game at 6 PM, with Brian Bugert Sr and the lodge email as contacts.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Current schedule and contact",
+        "observed": "Official Elks August 25, 2026 event lists recurring Tuesday bingo, doors at 4 PM and first game at 6 PM, with Brian Bugert Sr and the lodge email as contacts.",
+        "url": "https://www.elks.org/lodges/CalendarDetail.cfm?LodgeNumber=1427&eventid=1694353"
+      },
+      {
+        "topic": "Website opportunity",
+        "observed": "Bingo page emphasizes its August 2025 return and general prizes. No visible player text signup, loyalty enrollment, or package checkout appeared on the reviewed page.",
+        "url": "https://www.duarteelks.org/Bingo.html"
+      },
+      {
+        "topic": "Community work",
+        "observed": "The lodge describes charitable, educational and community service as its purpose.",
+        "url": "https://www.duarteelks.org/About.html"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "simi-valley-elks",
+    "name": "Simi Valley Elks Bingo",
+    "address": "1561 Kuehner Dr, Simi Valley, CA 93063",
+    "url": "https://simivalleyelks.com/bingo",
+    "lat": 34.265595596378,
+    "lng": -118.661975904535,
+    "matchedAddress": "1561 KUEHNER DR, SIMI VALLEY, CA, 93063",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1561+Kuehner+Dr%2C+Simi+Valley%2C+CA+93063&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Wed"
+    ],
+    "schedule": {
+      "Wed": {
+        "doors": "4:00 PM",
+        "session": "6:30 PM",
+        "program": "Wednesday · Pre-game pull tabs at 6:00 PM"
+      }
+    },
+    "buyIn": "",
+    "notes": "Bingo page separates 4 PM doors, 6 PM pre-game pull tabs and 6:30 PM games. The home page identifies Wednesdays but abbreviates the time to 6 PM.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Arrival details",
+        "observed": "Bingo page separates 4 PM doors, 6 PM pre-game pull tabs and 6:30 PM games. The home page identifies Wednesdays but abbreviates the time to 6 PM.",
+        "url": "https://simivalleyelks.com/bingo"
+      },
+      {
+        "topic": "Weekly day and charitable purpose",
+        "observed": "Home page confirms Wednesday public bingo and describes support for local organizations, veterans and community causes.",
+        "url": "https://simivalleyelks.com/"
+      },
+      {
+        "topic": "Player tools",
+        "observed": "The reviewed bingo page has no visible text enrollment, presale packs or player loyalty signup.",
+        "url": "https://simivalleyelks.com/bingo"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "simi-knights",
+    "name": "Simi Knights Bingo",
+    "address": "4191 Cochran St, Simi Valley, CA 93063",
+    "url": "https://kc5803.org/bingo",
+    "lat": 34.279108441753,
+    "lng": -118.713321846008,
+    "matchedAddress": "4191 COCHRAN ST, SIMI VALLEY, CA, 93063",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=4191+Cochran+St%2C+Simi+Valley%2C+CA+93063&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Sat"
+    ],
+    "schedule": {
+      "Sat": {
+        "doors": "3:00 PM",
+        "session": "5:30 PM",
+        "program": "Saturday · Free paper Early Birds at 4:45 PM"
+      }
+    },
+    "buyIn": "Saturday Buy-In: $40",
+    "notes": "An older marathon checkout was visible, but paid presales for current weekly sessions were not established. Saturday schedule comes from the current council bingo page.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Saturday program",
+        "observed": "Official page lists Shepherd of the Valley Church as the bingo venue, Saturday doors at 3 PM, early birds at 4:45 PM, regular games at 5:30 PM and buy-in from $40.",
+        "url": "https://kc5803.org/bingo"
+      },
+      {
+        "topic": "Existing advance sales",
+        "observed": "September 19, 2026 marathon has a ticket form with $100/$150/$190 options and seat preferences. The reviewed form currently says it is not accepting responses; ordinary weekly presales were not visible.",
+        "url": "https://kc5803.org/bingosept26"
+      },
+      {
+        "topic": "Texting and loyalty",
+        "observed": "Site links Flocknote, but no clear bingo-player text opt-in or visit-based loyalty enrollment was visible on the bingo page.",
+        "url": "https://kc5803.org/bingo"
+      },
+      {
+        "topic": "Contact",
+        "observed": "Public officer page associates Rick Ostrich with webmaster@kc5803.org (email is split by the page’s anti-spam markup). Page heading is 2023–2024, so do not represent the officer title as freshly verified.",
+        "url": "https://kc5803.org/officers"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "arcadia-elks",
+    "name": "Arcadia Elks Bingo",
+    "address": "27 W Huntington Dr, Arcadia, CA 91006",
+    "url": "https://arcadiaelks.org/bingo",
+    "lat": 34.140098929789,
+    "lng": -118.032530611887,
+    "matchedAddress": "27 W HUNTINGTON DR, ARCADIA, CA, 91007",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=27+W+Huntington+Dr%2C+Arcadia%2C+CA+91006&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Thu"
+    ],
+    "schedule": {
+      "Thu": {
+        "doors": "3:30 PM",
+        "session": "6:00 PM",
+        "program": "Thursday · Flash games and sales 4:30 PM · Kitchen 5:00 PM"
+      }
+    },
+    "buyIn": "Regular First Buy-In: $16 · Regular + Early Bird: $21",
+    "notes": "Bingo page publishes Thursday doors at 3:30 PM, games at 6 PM, kitchen at 5 PM, $16 regular first buy-in and $5 early-bird first buy-in.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Program and prices",
+        "observed": "Bingo page publishes Thursday doors at 3:30 PM, games at 6 PM, kitchen at 5 PM, $16 regular first buy-in and $5 early-bird first buy-in.",
+        "url": "https://arcadiaelks.org/bingo"
+      },
+      {
+        "topic": "Player tools",
+        "observed": "Page sends players to Facebook for menus; no visible bingo text enrollment, paid presale checkout or loyalty club signup appeared.",
+        "url": "https://arcadiaelks.org/bingo"
+      },
+      {
+        "topic": "Schedule difference",
+        "observed": "Lodge homepage says 6:30 PM. Dedicated bingo page and national Elks listing both say 6 PM; use the detailed bingo schedule and record the discrepancy for the operator.",
+        "url": "https://arcadiaelks.org/"
+      },
+      {
+        "topic": "Contact",
+        "observed": "National Elks lodge page publishes the office email and phone and corroborates Thursday bingo at 6 PM.",
+        "url": "https://www.elks.org/LODGES/home.cfm?lodgenumber=2025"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "garden-grove-elks",
+    "name": "Garden Grove Elks Bingo",
+    "address": "11551 Trask Ave, Garden Grove, CA 92843",
+    "url": "https://elks1952.org/bingo/",
+    "lat": 33.767067466675,
+    "lng": -117.92813670459,
+    "matchedAddress": "11551 TRASK AVE, GARDEN GROVE, CA, 92843",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=11551+Trask+Ave%2C+Garden+Grove%2C+CA+92843&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Tue"
+    ],
+    "schedule": {
+      "Tue": {
+        "doors": "3:30 PM",
+        "session": "6:00 PM",
+        "program": "Tuesday · Tuesday public bingo"
+      }
+    },
+    "buyIn": "Regular Buy-In: $30",
+    "notes": "Official bingo page lists $30 buy-in, $250 paper games, powerball and pull tabs up to $1,199, and Tuesday doors at 3:30 PM with first game at 6 PM.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Existing game offer",
+        "observed": "Official bingo page lists $30 buy-in, $250 paper games, powerball and pull tabs up to $1,199, and Tuesday doors at 3:30 PM with first game at 6 PM.",
+        "url": "https://elks1952.org/bingo/"
+      },
+      {
+        "topic": "Contact",
+        "observed": "Bingo page names Jennifer Lowery as chair and Vanessa Rangle as co-chair. The national directory provides bpoe1952@pacbell.net as the lodge inbox.",
+        "url": "https://www.elks.org/lodges/contactus.cfm?lodge=1952"
+      },
+      {
+        "topic": "Website opportunity",
+        "observed": "Reviewed bingo page has detailed offers but no visible player text signup, presale checkout or visit-based loyalty enrollment.",
+        "url": "https://elks1952.org/bingo/"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "sapolu-academy",
+    "name": "Sapolu Destined Academy Bingo",
+    "address": "1661 N Raymond Ave, Suite 200, Anaheim, CA 92801",
+    "url": "https://sda-foundation.org/bingo-fundraiser/",
+    "lat": 33.858614039991,
+    "lng": -117.906843032966,
+    "matchedAddress": "1661 N RAYMOND AVE, ANAHEIM, CA, 92801",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1661+N+Raymond+Ave%2C+Anaheim%2C+CA+92801&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Sun"
+    ],
+    "schedule": {
+      "Sun": {
+        "doors": "3:00 PM",
+        "session": "5:00 PM",
+        "program": "Sunday · Sunday charity bingo"
+      }
+    },
+    "buyIn": "",
+    "notes": "Site already links a newsletter form collecting name, phone and email, plus an RSVP form with phone, session date and seat count. Visible forms do not show paid pack checkout or clear bingo-marketing text consent.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Existing signups",
+        "observed": "Site already links a newsletter form collecting name, phone and email, plus an RSVP form with phone, session date and seat count. Visible forms do not show paid pack checkout or clear bingo-marketing text consent.",
+        "url": "https://tally.so/r/Xxl5X4"
+      },
+      {
+        "topic": "Newsletter phone collection",
+        "observed": "The linked newsletter form already includes a phone-number field. Recommend a clearer player text offer rather than claiming the foundation does not collect numbers.",
+        "url": "https://tally.so/r/q4RD9k"
+      },
+      {
+        "topic": "Schedule",
+        "observed": "Official September 13, 2026 event states recurring Sundays, doors at 3 PM and games at 5 PM; it encourages advance seat reservations.",
+        "url": "https://sda-foundation.org/events/non-profit-bingo-fundraiser-anaheim-ca/"
+      },
+      {
+        "topic": "Charity and contact",
+        "observed": "About page describes scholarships and mentorship for underserved students and publishes foundation@sapoluacademy.org for partnerships.",
+        "url": "https://sda-foundation.org/about-us/"
+      },
+      {
+        "topic": "Address discrepancy",
+        "observed": "Official footer says 1661 N Raymond Ave; event body says S Raymond. Bingo Bugle hall directory lists N Raymond and Suite 200. Use North from official footer plus directory; operator should reconcile conflicting event copy.",
+        "url": "https://www.bingo4fun.com/places-to-play-in-orange-county.html"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "russian-river-sisters",
+    "name": "Russian River Sisters Bingo",
+    "address": "Santa Rosa Veterans Hall, Lodge Room, 1351 Maple Avenue, Santa Rosa, CA",
+    "url": "https://www.rrsisters.org/bingo",
+    "lat": 38.433820237763,
+    "lng": -122.699884122066,
+    "matchedAddress": "1351 MAPLE AVE, SANTA ROSA, CA, 95404",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1351+Maple+Avenue%2C+Santa+Rosa%2C+CA&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Sat"
+    ],
+    "schedule": {
+      "Sat": {
+        "doors": "5:30 PM",
+        "session": "7:00 PM",
+        "program": "Second Saturday · Advance ticket holders arrive by 6:30 PM. Monthly themed bingo."
+      }
+    },
+    "buyIn": "Individual ticket: $32.93 · VIP table for eight: $433.04",
+    "notes": "Eventbrite ticket links, ticket-release dates, VIP tables and sold-out sessions are already published.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "yes",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Existing presales",
+        "observed": "Eventbrite ticket links, ticket-release dates, VIP tables and sold-out sessions are already published.",
+        "url": "https://www.rrsisters.org/bingo-schedule"
+      },
+      {
+        "topic": "Texting and loyalty",
+        "observed": "The reviewed bingo and schedule pages did not show an SMS signup or a repeat-visit rewards enrollment.",
+        "url": "https://www.rrsisters.org/bingo"
+      },
+      {
+        "topic": "Charity",
+        "observed": "Volunteer nonprofit supporting community causes through events and fundraising.",
+        "url": "https://www.rrsisters.org/about-us"
+      },
+      {
+        "topic": "Ticket prices",
+        "observed": "Individual entry $32.93 including fees; eight-person VIP table $433.04 including fees.",
+        "url": "https://www.rrsisters.org/bingo"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "davis-odd-fellows",
+    "name": "Davis Odd Fellows Second Sunday Bingo",
+    "address": "415 Second Street, Davis, CA 95616",
+    "url": "https://www.davislodge.org/odd-fellows-events/second-sunday-bingo/",
+    "lat": 38.542945202886,
+    "lng": -121.743066723112,
+    "matchedAddress": "415 2ND ST, DAVIS, CA, 95616",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=415+Second+Street%2C+Davis%2C+CA+95616&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Sun"
+    ],
+    "schedule": {
+      "Sun": {
+        "doors": "12:00 PM",
+        "session": "1:00 PM",
+        "program": "Second Sunday · Monthly community bingo"
+      }
+    },
+    "buyIn": "Easy Pack: $12 · Value Pack: $20",
+    "notes": "Monthly beneficiary program, noon opening and 1 PM bingo; $12 and $20 packs are listed.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Program",
+        "observed": "Monthly beneficiary program, noon opening and 1 PM bingo; $12 and $20 packs are listed.",
+        "url": "https://www.davislodge.org/odd-fellows-events/second-sunday-bingo/"
+      },
+      {
+        "topic": "Visitor actions",
+        "observed": "No bingo SMS opt-in, loyalty enrollment or online pack checkout was visible on the reviewed bingo page.",
+        "url": "https://www.davislodge.org/odd-fellows-events/second-sunday-bingo/"
+      },
+      {
+        "topic": "Date conflict",
+        "observed": "The official 2026 list has September–December dates that fall on Mondays. Arts Alliance Davis lists the September session on Sunday September 13; use the recurring second-Sunday rule, flag exact beneficiary dates for review.",
+        "url": "https://artsalliancedavis.org/event/second-sunday-bingo-30/"
+      },
+      {
+        "topic": "Contact",
+        "observed": "Matthew Eliott and Kavon Gohary are named bingo contacts, with published emails.",
+        "url": "https://www.davislodge.org/odd-fellows-events/second-sunday-bingo/"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "durant-square",
+    "name": "Durant Square Bingo Hall",
+    "address": "10800 International Boulevard, Oakland, CA 94603",
+    "url": "https://www.durantbingo.org/",
+    "lat": 37.737867590395,
+    "lng": -122.165514589768,
+    "matchedAddress": "10800 INTERNATIONAL BLVD, OAKLAND, CA, 94603",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=10800+International+Boulevard%2C+Oakland%2C+CA+94603&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "4:30 PM",
+        "session": "",
+        "program": "Monday–Friday · First-game time not published on reviewed official pages."
+      },
+      "Tue": {
+        "doors": "4:30 PM",
+        "session": "",
+        "program": "Monday–Friday · First-game time not published on reviewed official pages."
+      },
+      "Wed": {
+        "doors": "4:30 PM",
+        "session": "",
+        "program": "Monday–Friday · First-game time not published on reviewed official pages."
+      },
+      "Thu": {
+        "doors": "4:30 PM",
+        "session": "",
+        "program": "Monday–Friday · First-game time not published on reviewed official pages."
+      },
+      "Fri": {
+        "doors": "4:30 PM",
+        "session": "",
+        "program": "Monday–Friday · First-game time not published on reviewed official pages."
+      },
+      "Sat": {
+        "doors": "11:00 AM",
+        "session": "",
+        "program": "Saturday · First-game time not published on reviewed official pages."
+      }
+    },
+    "buyIn": "Weekday Regular Buy-In: $30 · Weekday Double Up: $50 · Friday / Saturday Regular: $40",
+    "notes": "FAQ says cash only, with an ATM on site; no online checkout was visible.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Payment opportunity",
+        "observed": "FAQ says cash only, with an ATM on site; no online checkout was visible.",
+        "url": "https://www.durantbingo.org/faq"
+      },
+      {
+        "topic": "Existing retention offers",
+        "observed": "Senior and birthday offers are listed, but no loyalty enrollment is visible on the pricing page.",
+        "url": "https://www.durantbingo.org/pricing"
+      },
+      {
+        "topic": "Texting",
+        "observed": "Homepage points visitors to social channels; no SMS signup was visible.",
+        "url": "https://www.durantbingo.org/"
+      },
+      {
+        "topic": "Schedule",
+        "observed": "Doors are 4:30 PM Monday–Friday and 11 AM Saturday; schedule lists buy-ins but no first-game time.",
+        "url": "https://www.durantbingo.org/schedule"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "merced-elks",
+    "name": "Merced Elks Lodge #1240 Bingo",
+    "address": "1910 M Street, Merced, CA 95340",
+    "url": "https://www.elks.org/lodges/home.cfm?lodgenumber=1240",
+    "lat": 37.30408846272,
+    "lng": -120.483540987445,
+    "matchedAddress": "1910 M ST, MERCED, CA, 95340",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1910+M+Street%2C+Merced%2C+CA+95340&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Tue"
+    ],
+    "schedule": {
+      "Tue": {
+        "doors": "4:30 PM",
+        "session": "6:30 PM",
+        "program": "Every Tuesday · Early bird games begin at 6:30 PM."
+      }
+    },
+    "buyIn": "Tuesday Buy-In: $20",
+    "notes": "Tuesday bingo, doors 4:30 PM, early birds 6:30 PM, $20 buy-in with two regular bingo packages.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Schedule and value",
+        "observed": "Tuesday bingo, doors 4:30 PM, early birds 6:30 PM, $20 buy-in with two regular bingo packages.",
+        "url": "https://www.elks.org/lodges/home.cfm?lodgenumber=1240"
+      },
+      {
+        "topic": "Visitor actions",
+        "observed": "The reviewed bingo information is a short paragraph on the lodge homepage, with no visible SMS, presale or bingo loyalty enrollment.",
+        "url": "https://www.elks.org/lodges/home.cfm?lodgenumber=1240"
+      },
+      {
+        "topic": "Contact",
+        "observed": "Official lodge contact page publishes the shared inbox and names Jane R. Lozano as secretary.",
+        "url": "https://www.elks.org/lodges/contactus.cfm?LodgeNumber=1240"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "woodland-elks",
+    "name": "Woodland Elks Lodge #1299 Bingo",
+    "address": "500 Bush Street, Woodland, CA 95695",
+    "url": "https://www.elks.org/lodges/home.cfm?lodgenumber=1299",
+    "lat": 38.676463551391,
+    "lng": -121.774659156252,
+    "matchedAddress": "500 BUSH ST, WOODLAND, CA, 95695",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=500+Bush+Street%2C+Woodland%2C+CA+95695&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Mon"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Every Monday · Published hall advertisement lists play until 9:00 PM."
+      }
+    },
+    "buyIn": "",
+    "notes": "The hall's newspaper advertisement lists weekly Monday bingo, doors 4 PM and games 6–9 PM.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Schedule",
+        "observed": "The hall's newspaper advertisement lists weekly Monday bingo, doors 4 PM and games 6–9 PM.",
+        "url": "https://bloximages.chicago2.vip.townnews.com/businessdirectory.dailydemocrat.com/content/tncms/assets/v3/classifieds/e/7b/e7bdc593-79dd-59ee-92c0-c2211c2021bb/688ededd0a5c2.pdf.pdf"
+      },
+      {
+        "topic": "Web opportunity",
+        "observed": "Reviewed official homepage highlights lodge history and office hours; no bingo text signup, pack checkout or player loyalty enrollment is visible.",
+        "url": "https://www.elks.org/lodges/home.cfm?lodgenumber=1299"
+      },
+      {
+        "topic": "Contact",
+        "observed": "Lodge email, address and Secretary Don Hall are published in the official directory.",
+        "url": "https://www.elks.org/lodges/contactus.cfm?LodgeNumber=1299"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "san-luis-obispo-elks",
+    "name": "San Luis Obispo Elks Lodge #322 Bingo",
+    "address": "222 Elks Lane, San Luis Obispo, CA 93401",
+    "url": "https://elks322.org/",
+    "lat": 35.261293044637,
+    "lng": -120.672066465993,
+    "matchedAddress": "222 ELKS LN, SAN LUIS OBISPO, CA, 93401",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=222+Elks+Lane%2C+San+Luis+Obispo%2C+CA+93401&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Wed"
+    ],
+    "schedule": {
+      "Wed": {
+        "doors": "",
+        "session": "5–9 PM event; first-game time not separately stated",
+        "program": "First and third Wednesdays · Published Bingo Night & Pub Grub event runs 5–9 PM. Separate first-game time is not stated."
+      }
+    },
+    "buyIn": "",
+    "notes": "Official volunteer page lists bingo crew for the first and third Wednesdays through December 2026, with Diane Dostalek as event chair.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Recurring bingo",
+        "observed": "Official volunteer page lists bingo crew for the first and third Wednesdays through December 2026, with Diane Dostalek as event chair.",
+        "url": "https://volunteer.elks322.org/?sheet_id=484"
+      },
+      {
+        "topic": "Event",
+        "observed": "Official calendar promotes Bingo Night & Pub Grub from 5–9 PM, open to the public, with food available.",
+        "url": "https://elks322.org/events/bingo-night-pub-grub-first-wed-2026-09-02/"
+      },
+      {
+        "topic": "Visitor actions",
+        "observed": "Reviewed event page has calendar exports but no visible bingo presale, SMS opt-in or player rewards enrollment.",
+        "url": "https://elks322.org/events/bingo-night-pub-grub-first-wed-2026-09-02/"
+      },
+      {
+        "topic": "Contact",
+        "observed": "Secretary Nancy Lewelling and secretary@elks322.org are published in the official directory.",
+        "url": "https://www.elks.org/lodges/contactus.cfm?LodgeNumber=322"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "santa-cruz-elks",
+    "name": "Santa Cruz Elks Lodge #824 Bingo",
+    "address": "150 Jewell Street, Santa Cruz, CA 95060",
+    "url": "https://santacruzelks.org/newsite/?page_id=739",
+    "lat": 36.987248283161,
+    "lng": -122.024960581068,
+    "matchedAddress": "150 JEWELL ST, SANTA CRUZ, CA, 95060",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=150+Jewell+Street%2C+Santa+Cruz%2C+CA+95060&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Tue"
+    ],
+    "schedule": {
+      "Tue": {
+        "doors": "4:30 PM",
+        "session": "6:30 PM",
+        "program": "Every Tuesday · Early birds at 6:15 PM; regular play about 6:30 PM."
+      }
+    },
+    "buyIn": "Tuesday Buy-In: $61",
+    "notes": "Official bingo page describes all-paper Tuesday bingo, hot ball and $61 buy-in; regular games and double action pay $500.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "yes"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Existing program",
+        "observed": "Official bingo page describes all-paper Tuesday bingo, hot ball and $61 buy-in; regular games and double action pay $500.",
+        "url": "https://santacruzelks.org/newsite/?page_id=739"
+      },
+      {
+        "topic": "Mission and schedule",
+        "observed": "The February 11, 2026 page gives 4:30 PM doors, 6:15 PM early birds, about 6:30 PM regular play, and scholarship support.",
+        "url": "https://santacruzelks.org/newsite/?page_id=739"
+      },
+      {
+        "topic": "Visitor actions",
+        "observed": "No bingo SMS opt-in, online pack purchase or loyalty enrollment was visible in the reviewed bingo-page content.",
+        "url": "https://santacruzelks.org/newsite/?page_id=739"
+      },
+      {
+        "topic": "Contact",
+        "observed": "The official directory publishes the secretary inbox and John Scally's name.",
+        "url": "https://www.elks.org/lodges/contactus.cfm?LodgeNumber=824"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "ventura-elks",
+    "name": "Ventura Elks Lodge 1430 Bingo",
+    "address": "2126 Knoll Drive, Ventura, CA 93003",
+    "url": "https://www.venturaelks.us/",
+    "lat": 34.252026591129,
+    "lng": -119.219703444364,
+    "matchedAddress": "2126 KNOLL DR, VENTURA, CA, 93003",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2126+Knoll+Drive%2C+Ventura%2C+CA+93003&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Mon"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "5:00 PM",
+        "session": "6:30 PM",
+        "program": "Monday bingo · No bingo on holiday Mondays"
+      }
+    },
+    "buyIn": "",
+    "notes": "Local homepage lists public Monday bingo, doors 5 PM, regular games 6:30 PM, excluding holiday Mondays. It publishes bpoeventura1430@gmail.com and 805-639-0303.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Schedule and contact",
+        "observed": "Local homepage lists public Monday bingo, doors 5 PM, regular games 6:30 PM, excluding holiday Mondays. It publishes bpoeventura1430@gmail.com and 805-639-0303.",
+        "url": "https://www.venturaelks.us/"
+      },
+      {
+        "topic": "Player tools",
+        "observed": "No bingo text signup, pack checkout or visit-reward enrollment was visible on the homepage. Bingo information is a small section beneath general lodge hours.",
+        "url": "https://www.venturaelks.us/"
+      },
+      {
+        "topic": "Named contact",
+        "observed": "Elks official officers-and-chairs directory names Ronald W. Reischel as Bingo Chairperson. The lodge inbox is public; no personal email is invented.",
+        "url": "https://www.elks.org/lodges/lodgeDirectory.cfm?lodgenumber=1430"
+      },
+      {
+        "topic": "Cause",
+        "observed": "The lodge's welcome describes Elks charitable support for scholarships, youth and veterans.",
+        "url": "https://www.venturaelks.us/"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "daub-4-kids",
+    "name": "Daub 4 Kids Bingo",
+    "address": "2107 Main Street, Oakley, CA 94561",
+    "url": "https://www.daub4kidsbingo.com/",
+    "lat": 38.003230659455,
+    "lng": -121.732493106564,
+    "matchedAddress": "2107 MAIN ST, OAKLEY, CA, 94561",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2107+Main+Street%2C+Oakley%2C+CA+94561&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Mon",
+      "Tue",
+      "Thu",
+      "Fri",
+      "Sat"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "4:00 PM",
+        "session": "6:30 PM",
+        "program": "Monday, Tuesday & Thursday–Saturday · Evening sessions"
+      },
+      "Tue": {
+        "doors": "4:00 PM",
+        "session": "6:30 PM",
+        "program": "Monday, Tuesday & Thursday–Saturday · Evening sessions"
+      },
+      "Thu": {
+        "doors": "4:00 PM",
+        "session": "6:30 PM",
+        "program": "Monday, Tuesday & Thursday–Saturday · Evening sessions"
+      },
+      "Fri": {
+        "doors": "4:00 PM",
+        "session": "6:30 PM",
+        "program": "Monday, Tuesday & Thursday–Saturday · Evening sessions"
+      },
+      "Sat": {
+        "doors": "4:00 PM",
+        "session": "6:30 PM",
+        "program": "Monday, Tuesday & Thursday–Saturday · Evening sessions"
+      }
+    },
+    "buyIn": "Strip buy-in: $30",
+    "notes": "A text club is already offered: text Join to 925-666-1233. No online package checkout or visit-reward enrollment was visible on the reviewed homepage.",
+    "promotions": [],
+    "features": {
+      "sms": "yes",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Texting",
+        "observed": "A text club is already offered: text Join to 925-666-1233. No online package checkout or visit-reward enrollment was visible on the reviewed homepage.",
+        "url": "https://www.daub4kidsbingo.com/"
+      },
+      {
+        "topic": "Games",
+        "observed": "A September 10, 2026 anniversary post advertises a $30 buy-in, $2,000 Broadway must-go and $1,000 powerball. These are dated offers, not verified perpetual balances.",
+        "url": "https://www.daub4kidsbingo.com/"
+      },
+      {
+        "topic": "Contact",
+        "observed": "The official about page's public Organization JSON-LD publishes daub4kidsbingosocials@gmail.com with the hall's legal name, address and phone. The visible contact section uses a form and phone.",
+        "url": "https://www.daub4kidsbingo.com/about"
+      },
+      {
+        "topic": "Charity",
+        "observed": "The about page describes support for local school and sports organizations, including East County Little League and Liberty Lions.",
+        "url": "https://www.daub4kidsbingo.com/about"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "broadway-salinas",
+    "name": "Broadway Bingo",
+    "address": "19 West Bernal Drive, Salinas, CA 93906",
+    "url": "https://www.broadway.bingo/",
+    "lat": 36.689936896898,
+    "lng": -121.652610735877,
+    "matchedAddress": "19 W BERNAL DR, SALINAS, CA, 93906",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=19+West+Bernal+Drive%2C+Salinas%2C+CA+93906&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Sun",
+      "Mon",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat"
+    ],
+    "schedule": {
+      "Sun": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Wednesday–Monday · Closed Tuesday"
+      },
+      "Mon": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Wednesday–Monday · Closed Tuesday"
+      },
+      "Wed": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Wednesday–Monday · Closed Tuesday"
+      },
+      "Thu": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Wednesday–Monday · Closed Tuesday"
+      },
+      "Fri": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Wednesday–Monday · Closed Tuesday"
+      },
+      "Sat": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Wednesday–Monday · Closed Tuesday"
+      }
+    },
+    "buyIn": "",
+    "notes": "Official site lists salinasbroadwaybingo@gmail.com, Wednesday–Monday sessions, doors at 4:00 PM and play at 6:00 PM. No phone was found on the current official page.",
+    "promotions": [],
+    "features": {
+      "sms": "yes",
+      "presale": "yes",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Contact and schedule",
+        "observed": "Official site lists salinasbroadwaybingo@gmail.com, Wednesday–Monday sessions, doors at 4:00 PM and play at 6:00 PM. No phone was found on the current official page.",
+        "url": "https://www.broadway.bingo/"
+      },
+      {
+        "topic": "Presales and texting",
+        "observed": "The website links a Mobiniti text signup and an iOS app under Reserve your seats. No browser checkout or visit-reward enrollment was found on reviewed pages.",
+        "url": "https://www.broadway.bingo/"
+      },
+      {
+        "topic": "App",
+        "observed": "The published Broadway app supports advance bingo-product orders and orders from a player's seat, powered by BingoMeNow/AirMenu.",
+        "url": "https://apps.apple.com/us/app/broadway-bingo/id1535452813"
+      },
+      {
+        "topic": "Charities",
+        "observed": "The official charities page's public site bundle names Coastal Kids Home Care and Sand City Volleyball Club. Older directories name different beneficiaries; use the current official names.",
+        "url": "https://www.broadway.bingo/charities"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "park-place",
+    "name": "Park Place Bingo",
+    "address": "1045 South Main Street, Salinas, CA 93901",
+    "url": "https://parkplacebingo.com/",
+    "lat": 36.661399323827,
+    "lng": -121.658117910808,
+    "matchedAddress": "1045 S MAIN ST, SALINAS, CA, 93901",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1045+South+Main+Street%2C+Salinas%2C+CA+93901&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sun",
+      "Sat"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Monday–Friday · Speed starts at 6 PM; regular bingo follows"
+      },
+      "Tue": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Monday–Friday · Speed starts at 6 PM; regular bingo follows"
+      },
+      "Wed": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Monday–Friday · Speed starts at 6 PM; regular bingo follows"
+      },
+      "Thu": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Monday–Friday · Speed starts at 6 PM; regular bingo follows"
+      },
+      "Fri": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Monday–Friday · Speed starts at 6 PM; regular bingo follows"
+      },
+      "Sun": {
+        "doors": "10:00 AM",
+        "session": "12:00 PM",
+        "program": "Saturday & Sunday · Noon speed games; later sessions listed at 4:30 PM and 6:00 PM"
+      },
+      "Sat": {
+        "doors": "10:00 AM",
+        "session": "12:00 PM",
+        "program": "Saturday & Sunday · Noon speed games; later sessions listed at 4:30 PM and 6:00 PM"
+      }
+    },
+    "buyIn": "",
+    "notes": "The homepage's Reserve Online button has href=#. It does not expose a booking destination in the reviewed page; no working presale flow was verified.",
+    "promotions": [],
+    "features": {
+      "sms": "yes",
+      "presale": "unknown",
+      "loyalty": "yes",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Presale path",
+        "observed": "The homepage's Reserve Online button has href=#. It does not expose a booking destination in the reviewed page; no working presale flow was verified.",
+        "url": "https://parkplacebingo.com/"
+      },
+      {
+        "topic": "Texting",
+        "observed": "The pricing page promotes the VIP text club: text Ppbingo to 71441. It sends pricing, specials, events and coupons.",
+        "url": "https://parkplacebingo.com/pricing/"
+      },
+      {
+        "topic": "Player rewards",
+        "observed": "Free birthday play with identification is promoted. A visit-based loyalty program was not visible; build on the birthday offer rather than claiming no rewards exist.",
+        "url": "https://parkplacebingo.com/"
+      },
+      {
+        "topic": "Schedule",
+        "observed": "Weekday speed games begin at 6 PM after 4 PM doors. Weekend doors are 10 AM with noon speed and later sessions. This fuller schedule includes Sunday, unlike the homepage footer.",
+        "url": "https://parkplacebingo.com/schedule/"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "fremont-elks",
+    "name": "Fremont Elks Lodge 2121 Bingo",
+    "address": "38991 Farwell Drive, Fremont, CA 94536",
+    "url": "https://www.fremontelks.org/bingo/",
+    "lat": 37.533660830932,
+    "lng": -122.002160530436,
+    "matchedAddress": "38991 FARWELL DR, FREMONT, CA, 94536",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=38991+Farwell+Drive%2C+Fremont%2C+CA+94536&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Thu"
+    ],
+    "schedule": {
+      "Thu": {
+        "doors": "4:30 PM",
+        "session": "6:30 PM",
+        "program": "Thursday bingo · Flash and strip games at 6 PM; snack bar at 4:30 PM"
+      }
+    },
+    "buyIn": "",
+    "notes": "The dedicated bingo page lists Mark Heydt as chairperson, with public cell 510-675-7448 and email msheydt@aol.com.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Contact",
+        "observed": "The dedicated bingo page lists Mark Heydt as chairperson, with public cell 510-675-7448 and email msheydt@aol.com.",
+        "url": "https://www.fremontelks.org/bingo/"
+      },
+      {
+        "topic": "Player tools",
+        "observed": "The bingo page explains play and pull tabs; no bingo text signup, pack presale or visit-reward enrollment was visible. The general lodge has other online products; that is not bingo presale.",
+        "url": "https://www.fremontelks.org/bingo/"
+      },
+      {
+        "topic": "Arrival",
+        "observed": "Thursday doors and snack bar open 4:30 PM; flash/strips start 6 PM, regular bingo 6:30 PM. Free coffee, popcorn and water are advertised; bingo is open to the public.",
+        "url": "https://www.fremontelks.org/product/bingo-every-thursday/"
+      },
+      {
+        "topic": "Community",
+        "observed": "The lodge describes youth programs, scholarships and veterans' service among its charitable work.",
+        "url": "https://www.fremontelks.org/charitable-works/"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "aquamaids",
+    "name": "Aquamaids Bingo",
+    "address": "1600 Martin Avenue, Santa Clara, CA 95050",
+    "url": "https://www.aquamaidsbingo.com/",
+    "lat": 37.366155761017,
+    "lng": -121.956768819623,
+    "matchedAddress": "1600 MARTIN AVE, SANTA CLARA, CA, 95050",
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1600+Martin+Avenue%2C+Santa+Clara%2C+CA+95050&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri"
+    ],
+    "schedule": {
+      "Tue": {
+        "doors": "3:30 PM",
+        "session": "6:30 PM",
+        "program": "Tuesday–Thursday · Choose your evening pack"
+      },
+      "Wed": {
+        "doors": "3:30 PM",
+        "session": "6:30 PM",
+        "program": "Tuesday–Thursday · Choose your evening pack"
+      },
+      "Thu": {
+        "doors": "3:30 PM",
+        "session": "6:30 PM",
+        "program": "Tuesday–Thursday · Choose your evening pack"
+      },
+      "Fri": {
+        "doors": "3:30 PM",
+        "session": "6:00 PM",
+        "program": "Friday · Friday packs from $100"
+      }
+    },
+    "buyIn": "$50 Buy-In: $50 · $75 Buy-In: $75 · $100 Buy-In: $100",
+    "notes": "Existing texts and AirMenu reservations; Wednesday/Thursday page advertises a $10 hot-ball add-on with a $20,000 payout. Start times in the source notes date to 2023.",
+    "promotions": [],
+    "features": {
+      "sms": "yes",
+      "presale": "yes",
+      "loyalty": "not-visible",
+      "hotball": "yes"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Aquamaids already has hot ball",
+        "observed": "Wednesday and Thursday tables list a $10 hot-ball option with a $20,000 payout. Promote an existing attraction more clearly; do not pitch it as a missing game.",
+        "url": "https://www.aquamaidsbingo.com/"
+      },
+      {
+        "topic": "Aquamaids already collects text signups",
+        "observed": "The homepage links to a BSeenNow text signup. A new program can build on that list and connect each message to a particular session.",
+        "url": "https://login.bseennow.net/kiosk.jsf?code=3UE7BKUJ"
+      },
+      {
+        "topic": "Aquamaids already has reservations",
+        "observed": "The reservations button opens an AirMenu destination. The opportunity is a simpler path from a game offer to a dated purchase.",
+        "url": "https://www.airmenu.com/aquamaidsbingo?cookielocalok=&locale=en"
+      },
+      {
+        "topic": "Vanguard promotes a complete visit",
+        "observed": "Its current bingo page connects prominent prize promotions, individual session links, reserved seats, presale incentives and arrival information.",
+        "url": "https://www.scvanguard.org/bingo/"
+      },
+      {
+        "topic": "Repeat-visit promotions",
+        "observed": "Vanguard's 2025 landing page describes online-only bonuses, short-notice promotions announced by text, and birthday offers tied to a future visit. It is a historical playbook, not confirmation every offer is unchanged.",
+        "url": "https://www.scvanguard.org/bingo-new-landing-2025/"
+      },
+      {
+        "topic": "Published contact",
+        "observed": "Aquamaids' account page publishes bingoconnect@aquamaids.org and the hall phone number.",
+        "url": "https://www.aquamaidsbingo.com/clientlogin.asp"
+      }
+    ],
+    "prospect": true
+  },
+  {
+    "id": "area-sycuan-casino-resort-bingo",
+    "name": "Sycuan Casino Resort Bingo",
+    "address": "5469 Casino Way, El Cajon, CA 92019",
+    "url": "https://www.sycuan.com/casino/sycuan-casino-bingo/",
+    "lat": 32.78667196737,
+    "lng": -116.828237078101,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=5469+Casino+Way%2C+El+Cajon%2C+CA+92019&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Sat"
+    ],
+    "schedule": {
+      "Sat": {
+        "doors": "",
+        "session": "10:30 PM",
+        "program": "BAD Bingo. Other regular sessions are linked through the official monthly calendar and buy-in pages; not transcribed here. · Saturday"
+      }
+    },
+    "buyIn": "Saturday BAD Bingo: Level 1 packs $10, $20 or $30; Level 2 packs $20, $40 or $60.",
+    "notes": "A direct East County competitor with a casino rewards program and a late-night format. Tribal gaming rules and promotional scale differ from charitable halls; do not treat its prize program as a legal model for a charity. No current must-go amount is asserted.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "unknown",
+      "loyalty": "yes",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Schedule and buy-in",
+        "observed": "Official bingo page advertises weekly Saturday BAD Bingo at 10:30 PM and the six listed package prices.",
+        "url": "https://www.sycuan.com/casino/sycuan-casino-bingo/"
+      },
+      {
+        "topic": "Loyalty",
+        "observed": "Club Sycuan explicitly awards bonus points when members purchase video or paper bingo packs.",
+        "url": "https://www.sycuan.com/club-sycuan/"
+      },
+      {
+        "topic": "Texting and presales",
+        "observed": "Reviewed bingo page offers email signup and phone reservations for party tables. It does not expose a clear bingo text signup or establish paid online presales. Reservations are not counted as presales.",
+        "url": "https://www.sycuan.com/casino/sycuan-casino-bingo/"
+      },
+      {
+        "topic": "Address",
+        "observed": "Official driving directions give 5469 Casino Way, El Cajon.",
+        "url": "https://www.sycuan.com/driving-directions/"
+      },
+      {
+        "topic": "Hot ball",
+        "observed": "Hot Ball appears in an older 2023 buy-in PDF found by search, but current inclusion was not verified; status remains unknown.",
+        "url": "https://www.sycuan.com/casino/sycuan-casino-bingo/"
+      }
+    ],
+    "category": "Tribal casino bingo"
+  },
+  {
+    "id": "area-viejas-bingo-slot-parlor",
+    "name": "Viejas Bingo & Slot Parlor",
+    "address": "5000 Willows Rd, Alpine, CA 91901",
+    "url": "https://viejas.com/bingo/",
+    "lat": 32.841756588605,
+    "lng": -116.703998649299,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=5000+Willows+Rd%2C+Alpine%2C+CA+91901&benchmark=Public_AR_Current&format=json",
+    "days": [],
+    "schedule": {
+      "Details": {
+        "doors": "Slot floor 9:00 AM; session buy-ins from 9:30 AM",
+        "session": "Matinee I 10:30 AM; Matinee II noon; evening early birds/warmups 5:30 PM; regular evening 6:30 PM",
+        "program": "Exact operating-day calendar not inferred. · Published session times; days not specified in extracted page"
+      }
+    },
+    "buyIn": "",
+    "notes": "Nearby East County destination with smoke-free bingo, electronic touchpads and a birthday return offer. Tribal competitor; compare player experience without applying tribal prize rules to charitable bingo. Linked price sheets were not treated as verified current prices.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "yes",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Schedule, venue and purchase flow",
+        "observed": "Official bingo page publishes the session times and Alpine address, says seating is first-come first-served, and links buy-in sheets. A paid advance checkout was not visible.",
+        "url": "https://viejas.com/bingo/"
+      },
+      {
+        "topic": "Loyalty and return offer",
+        "observed": "The bingo page includes an on-site myViejas desk/kiosk and advertises a complimentary birthday pack during a guest’s birthday month, subject to the listed restrictions.",
+        "url": "https://viejas.com/bingo/"
+      },
+      {
+        "topic": "Texting and hot ball",
+        "observed": "No bingo-specific text opt-in was visible on the reviewed page. Jackpot links exist, but no current hot-ball details were verified.",
+        "url": "https://viejas.com/bingo/"
+      }
+    ],
+    "category": "Tribal casino bingo"
+  },
+  {
+    "id": "area-pleasant-valley-recreation-park-foundation-bingo",
+    "name": "Pleasant Valley Recreation & Park Foundation Bingo",
+    "address": "1605 E Burnley St, Camarillo, CA 93010",
+    "url": "https://www.pvrpd.org/bingo",
+    "lat": 34.225505269065,
+    "lng": -119.049757842887,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1605+E+Burnley+St%2C+Camarillo%2C+CA+93010&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Wed"
+    ],
+    "schedule": {
+      "Wed": {
+        "doors": "10:00 AM",
+        "session": "Noon–3:30 PM",
+        "program": "Sales end at 11:15 AM. Seventeen games; session may run longer. · Wednesday"
+      }
+    },
+    "buyIn": "$15 minimum for 6-on/10 games; optional games $1–$2 each; cash only.",
+    "notes": "A lower-cost daytime alternative in Ventura County. Foundation-operated; useful comparison for clear prices, sales cutoff and first-time-player instructions.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "not-visible"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Schedule, address and price",
+        "observed": "District page lists the Camarillo auditorium, weekly Wednesday session, opening and sales cutoff, $15 minimum and optional game prices.",
+        "url": "https://www.pvrpd.org/bingo"
+      },
+      {
+        "topic": "Purchase model",
+        "observed": "Page says no registration is required, cash only, in-person sign-in and first-come seating. No paid presale flow was visible.",
+        "url": "https://www.pvrpd.org/bingo"
+      },
+      {
+        "topic": "Texting, loyalty and game program",
+        "observed": "No player text signup or loyalty enrollment appeared. Listed games include Double Action and Winner Takes All; hot ball is not listed.",
+        "url": "https://www.pvrpd.org/bingo"
+      }
+    ],
+    "category": "Nonprofit community bingo"
+  },
+  {
+    "id": "area-goebel-adult-center-bingo",
+    "name": "Goebel Adult Center Bingo",
+    "address": "1385 E Janss Rd, Thousand Oaks, CA 91362",
+    "url": "https://www.crpd.org/bingo-games-technology",
+    "lat": 34.199604061496,
+    "lng": -118.853024430334,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1385+E+Janss+Rd%2C+Thousand+Oaks%2C+CA+91362&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Tue",
+      "Fri",
+      "Sat"
+    ],
+    "schedule": {
+      "Tue": {
+        "doors": "11:45 AM",
+        "session": "12:45 PM",
+        "program": "Paper sales close at 12:30 PM. · Tuesday, Friday and Saturday"
+      },
+      "Fri": {
+        "doors": "11:45 AM / Paper sales 4:30 PM",
+        "session": "12:45 PM / 6:15 PM",
+        "program": "Paper sales close at 12:30 PM. · Tuesday, Friday and Saturday / Listed dates June 26, August 28 and October 16; sales close at 6 PM. These are selected dates, not every Friday night. · Selected Friday evenings"
+      },
+      "Sat": {
+        "doors": "11:45 AM",
+        "session": "12:45 PM",
+        "program": "Paper sales close at 12:30 PM. · Tuesday, Friday and Saturday"
+      }
+    },
+    "buyIn": "$10 minimum; additional special games $2 each; cash only.",
+    "notes": "Daytime price competition close to Simi Valley, with clearly stated sales deadlines. Bingo is 18+ even though other center services target older adults.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "not-visible"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Program",
+        "observed": "Official district page lists three weekly daytime sessions, a $10 minimum, cash-only sales and selected evening dates. It names the Goebel Senior Center Commission as sponsor.",
+        "url": "https://www.crpd.org/bingo-games-technology"
+      },
+      {
+        "topic": "Location",
+        "observed": "Official center page gives 1385 E Janss Road. The Hillcrest address in the district footer is an administration address, not the bingo center.",
+        "url": "https://www.crpd.org/goebel-adult-center"
+      },
+      {
+        "topic": "Player tools",
+        "observed": "Reviewed bingo page shows an email updates form, but no visible bingo text opt-in, paid presale checkout, player loyalty signup or hot-ball feature.",
+        "url": "https://www.crpd.org/bingo-games-technology"
+      }
+    ],
+    "category": "Nonprofit community bingo"
+  },
+  {
+    "id": "area-placentia-platinum-bingo",
+    "name": "Placentia Platinum Bingo",
+    "address": "901 N Bradford Ave, Placentia, CA 92870",
+    "url": "https://platinumbingo.net/",
+    "lat": 33.879951690956,
+    "lng": -117.868269563707,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=901+N+Bradford+Ave%2C+Placentia%2C+CA+92870&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Tue",
+      "Sun"
+    ],
+    "schedule": {
+      "Tue": {
+        "doors": "10:00 AM / 4:00 PM",
+        "session": "11:00 AM–2:00 PM / 6:00 PM–10:00 PM",
+        "program": "$20 buy-in · Tuesday morning / $35 buy-in · Tuesday evening"
+      },
+      "Sun": {
+        "doors": "1:00 PM",
+        "session": "3:00 PM–7:30 PM",
+        "program": "$50 buy-in · Sunday"
+      }
+    },
+    "buyIn": "Tuesday morning $20; Tuesday evening $35; Sunday $50.",
+    "notes": "A strong local website comparison: readable schedule, session-specific pricing and a beginner guide. Phone reservations still leave room for a smoother paid presale experience.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "not-visible"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Schedule and price",
+        "observed": "Homepage publishes three weekly sessions and their $20/$35/$50 buy-ins. It includes pack contents rather than only a starting price.",
+        "url": "https://platinumbingo.net/"
+      },
+      {
+        "topic": "Reservation versus presale",
+        "observed": "Reserve Your Seat messaging tells players to telephone the hall. This is a reservation invitation, not evidence of paid online presales.",
+        "url": "https://platinumbingo.net/"
+      },
+      {
+        "topic": "Player tools and games",
+        "observed": "Reviewed homepage and beginner guide show no visible text signup, loyalty enrollment or hot-ball offering.",
+        "url": "https://platinumbingo.net/how-to-play/"
+      },
+      {
+        "topic": "Address",
+        "observed": "Official visit page identifies the Placentia Round Table Women’s Club venue at 901 N Bradford Avenue.",
+        "url": "https://platinumbingo.net/visit/"
+      }
+    ],
+    "category": "Community bingo hall"
+  },
+  {
+    "id": "area-cypress-bingo-hall",
+    "name": "Cypress Bingo Hall",
+    "address": "5856 Corporate Ave, Cypress, CA 90630",
+    "url": "https://cypressbingohall.com/",
+    "lat": 33.807926067276,
+    "lng": -118.031613968951,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=5856+Corporate+Ave%2C+Cypress%2C+CA+90630&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Sun",
+      "Mon",
+      "Tue",
+      "Thu",
+      "Fri",
+      "Sat"
+    ],
+    "schedule": {
+      "Sun": {
+        "doors": "",
+        "session": "Varies by sponsoring group",
+        "program": "Official homepage lists six operating days with different local school/community beneficiaries. · Monday, Tuesday, Thursday, Friday, Saturday and Sunday"
+      },
+      "Mon": {
+        "doors": "",
+        "session": "Varies by sponsoring group",
+        "program": "Official homepage lists six operating days with different local school/community beneficiaries. · Monday, Tuesday, Thursday, Friday, Saturday and Sunday"
+      },
+      "Tue": {
+        "doors": "",
+        "session": "Varies by sponsoring group",
+        "program": "Official homepage lists six operating days with different local school/community beneficiaries. · Monday, Tuesday, Thursday, Friday, Saturday and Sunday"
+      },
+      "Thu": {
+        "doors": "",
+        "session": "Varies by sponsoring group",
+        "program": "Official homepage lists six operating days with different local school/community beneficiaries. · Monday, Tuesday, Thursday, Friday, Saturday and Sunday"
+      },
+      "Fri": {
+        "doors": "",
+        "session": "Varies by sponsoring group",
+        "program": "Official homepage lists six operating days with different local school/community beneficiaries. · Monday, Tuesday, Thursday, Friday, Saturday and Sunday"
+      },
+      "Sat": {
+        "doors": "4:00 PM",
+        "session": "Varies by sponsoring group / Warm-ups 5:00 PM; regular games 5:45 PM",
+        "program": "Official homepage lists six operating days with different local school/community beneficiaries. · Monday, Tuesday, Thursday, Friday, Saturday and Sunday / Verified detailed Saturday program only. · Saturday"
+      }
+    },
+    "buyIn": "Saturday regular buy-in $40 (three 6-on packs with five Early Bird and ten regular games); extra 6-on packs $5; five-game warm-ups $5.",
+    "notes": "One physical hall, not six separate competitors. Saturday facts should not be assigned to other nights. Competitive strengths include frequent sessions, transparent package contents and attendance bonuses.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "not-visible"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Location and operating days",
+        "observed": "Official homepage gives the Corporate Avenue address and six weekly days, each associated with a different beneficiary.",
+        "url": "https://cypressbingohall.com/"
+      },
+      {
+        "topic": "Saturday schedule and pricing",
+        "observed": "Saturday page provides opening, warm-up and regular game times, plus the $40 package and optional $5 purchases.",
+        "url": "https://cypressbingohall.com/saturday/events/"
+      },
+      {
+        "topic": "Reservations",
+        "observed": "Saturday reservations are made inside the hall one week ahead; other seating is first-come. This is not evidence of website paid presales.",
+        "url": "https://cypressbingohall.com/saturday/events/"
+      },
+      {
+        "topic": "Player tools and attraction",
+        "observed": "No text signup, loyalty enrollment or hot ball was visible on the reviewed pages. Saturday does advertise attendance-triggered higher payouts, which is a different promotion.",
+        "url": "https://cypressbingohall.com/saturday/events/"
+      }
+    ],
+    "category": "Shared school-booster bingo hall"
+  },
+  {
+    "id": "area-bosco-tech-bingo",
+    "name": "Bosco Tech Bingo",
+    "address": "1151 San Gabriel Blvd, Rosemead, CA 91770",
+    "url": "https://www.boscotech.edu/giving/bingo",
+    "lat": 34.04219433495,
+    "lng": -118.085321392699,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1151+San+Gabriel+Blvd%2C+Rosemead%2C+CA+91770&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Sun"
+    ],
+    "schedule": {
+      "Sun": {
+        "doors": "",
+        "session": "Time not published on the reviewed school page",
+        "program": "School directs players to its bingo Facebook page for dates and exceptions. No start time is guessed. · Typically Sunday"
+      }
+    },
+    "buyIn": "",
+    "notes": "This is Don Bosco Technical Institute in Rosemead, distinct from St. John Bosco High School in Bellflower already in the outreach dashboard. Clear evidence that a nearby charitable competitor already uses paid presales; school page does not publish current start times or package prices.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "yes",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Paid presales",
+        "observed": "Official school bingo page explicitly invites players to pre-buy game cards and games with the BingoMeNow app and links to that app.",
+        "url": "https://www.boscotech.edu/giving/bingo"
+      },
+      {
+        "topic": "Location and recurrence",
+        "observed": "School page gives the Rosemead address and says games typically take place on Sundays, with updates on its bingo Facebook page.",
+        "url": "https://www.boscotech.edu/giving/bingo"
+      },
+      {
+        "topic": "Other player features",
+        "observed": "No clear bingo text signup or player loyalty enrollment appeared in the reviewed school page. Current hot-ball details were not established.",
+        "url": "https://www.boscotech.edu/giving/bingo"
+      }
+    ],
+    "category": "School charity bingo"
+  },
+  {
+    "id": "area-trabuco-hills-music-boosters-bingo",
+    "name": "Trabuco Hills Music Boosters Bingo",
+    "address": "27501 Mustang Run, Mission Viejo, CA 92691",
+    "url": "https://thhsmusic.com/2024_2025/Music_Boosters/Bingo.asp",
+    "lat": 33.653799865234,
+    "lng": -117.650668908679,
+    "coordinateSource": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer/findAddressCandidates?SingleLine=27501+Mustang+Run%2C+Mission+Viejo%2C+CA+92691&f=json",
+    "days": [
+      "Thu"
+    ],
+    "schedule": {
+      "Thu": {
+        "doors": "5:00 PM",
+        "session": "Early Birds 6:00 PM; Main Games 7:00 PM",
+        "program": "Times from the booster bingo page. Current school calendar lists September 10, 17 and 24, 2026 bingo dates. · Thursday, except school-event conflicts"
+      }
+    },
+    "buyIn": "",
+    "notes": "A farther south Orange County alternative, useful for understanding the regional Thursday market. Do not infer current package prices from historical documents. Published times come from an older program-page URL while the 2026 school calendar verifies current dates.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Published times and purpose",
+        "observed": "Booster page says Thursday bingo supports the instrumental music program; it lists 5 PM doors, 6 PM Early Birds and 7 PM main games, with exceptions for school events.",
+        "url": "https://thhsmusic.com/2024_2025/Music_Boosters/Bingo.asp"
+      },
+      {
+        "topic": "Current recurrence",
+        "observed": "School’s September 2026 calendar includes Music Boosters Bingo on September 10, 17 and 24. This corroborates an active recurring program rather than relying solely on the older booster URL.",
+        "url": "https://www.svusd.org/schools/high-schools/trabuco-hills/resources/calendar"
+      },
+      {
+        "topic": "Player tools",
+        "observed": "Reviewed booster page emphasizes volunteer signup. No visible player text signup, paid presale or loyalty enrollment appeared; current hot-ball offering was not established.",
+        "url": "https://thhsmusic.com/2024_2025/Music_Boosters/Bingo.asp"
+      },
+      {
+        "topic": "Address",
+        "observed": "Official school calendar page identifies the school at 27501 Mustang Run, Mission Viejo.",
+        "url": "https://www.svusd.org/schools/high-schools/trabuco-hills/resources/calendar"
+      }
+    ],
+    "category": "School charity bingo"
+  },
+  {
+    "id": "area-wine-country-bingo",
+    "name": "Wine Country Bingo",
+    "address": "Santa Rosa Veterans Memorial Building, Lodge Room, 1351 Maple Avenue, Santa Rosa, CA 95404",
+    "url": "https://winecountrytrykes.org/bingo",
+    "lat": 38.433820237763,
+    "lng": -122.699884122066,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1351+Maple+Avenue%2C+Santa+Rosa%2C+CA+95404&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Thu"
+    ],
+    "schedule": {
+      "Thu": {
+        "doors": "5:00 PM",
+        "session": "6:15 PM",
+        "frequency": "Second Thursday of each month",
+        "weekOrdinals": [
+          2
+        ],
+        "program": "Early bird, seven-pack games, pull tabs and flash"
+      }
+    },
+    "buyIn": "$35 admission; published organizer ticket listing",
+    "notes": "Direct nearby competitor for Russian River Sisters: same hall and room, different monthly night. Proceeds support adaptive mobility trykes. Advance tickets coexist with cash-only purchases inside the event.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "yes",
+      "loyalty": "not-visible",
+      "hotball": "not-visible"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "feature": "sms",
+        "status": "not-visible",
+        "observed": "No bingo text opt-in appeared in the reviewed bingo page or nonprofit homepage.",
+        "url": "https://winecountrytrykes.org/bingo"
+      },
+      {
+        "feature": "presale",
+        "status": "yes",
+        "observed": "The nonprofit homepage links directly to an Eventbrite ticket page; the organizer's recurring ticket listing publishes admission and refund details.",
+        "url": "https://winecountrytrykes.org/"
+      },
+      {
+        "feature": "loyalty",
+        "status": "not-visible",
+        "observed": "No player rewards enrollment or visit-reward program appeared in reviewed pages.",
+        "url": "https://winecountrytrykes.org/bingo"
+      },
+      {
+        "feature": "hotball",
+        "status": "not-visible",
+        "observed": "The game description mentions early bird, pack games, pull tabs and flash without mentioning a hot ball.",
+        "url": "https://winecountrytrykes.org/bingo"
+      }
+    ],
+    "category": ""
+  },
+  {
+    "id": "area-optimist-bingo-sacramento",
+    "name": "Optimist Bingo Sacramento",
+    "address": "3399 Arden Way, Sacramento, CA 95825",
+    "url": "https://optimistsbc.com/",
+    "lat": 38.595818735995,
+    "lng": -121.38483247252,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=3399+Arden+Way%2C+Sacramento%2C+CA+95825&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "9:00 AM",
+        "session": "10:30 AM",
+        "program": "Matinee; $30 starting buy-in"
+      },
+      "Tue": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Evening; $25 starting buy-in"
+      },
+      "Wed": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Homepage schedule only; conflicts with Wednesday detail page"
+      },
+      "Thu": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Slam-A-Thon"
+      },
+      "Fri": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Semi-speed 5:30 PM; $50 starting buy-in"
+      },
+      "Sat": {
+        "doors": "4:00 PM",
+        "session": "Not published in reviewed homepage schedule",
+        "program": "Saturday packages from $50"
+      },
+      "Sun": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Semi-speed 5:30 PM; $50 starting buy-in"
+      }
+    },
+    "buyIn": "Monday $30; Tuesday $25; Friday/Sunday $50; other sessions vary",
+    "notes": "Regional competitor for Davis and Woodland with daily sessions, a kitchen and multiple pack tiers. First-time players are addressed through detailed buy-in descriptions.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "yes"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "feature": "sms",
+        "status": "unknown",
+        "observed": "Insiders Club signup is promoted, but the extracted public content did not establish whether it collects SMS consent or only email.",
+        "url": "https://optimistsbc.com/"
+      },
+      {
+        "feature": "presale",
+        "status": "unknown",
+        "observed": "The New Year's page advertises a presale, but references December 2025 and a 2026 token; current routine online presales were not verified.",
+        "url": "https://optimistsbc.com/newyears"
+      },
+      {
+        "feature": "loyalty",
+        "status": "unknown",
+        "observed": "A testimonial on the official site mentions a points card, and the older New Year's page excludes points; current operator-issued rules and enrollment were not found.",
+        "url": "https://optimistsbc.com/newyears"
+      },
+      {
+        "feature": "hotball",
+        "status": "yes",
+        "observed": "The Sunday program explicitly advertises a $1 hotball.",
+        "url": "https://optimistsbc.com/sundays"
+      }
+    ],
+    "category": ""
+  },
+  {
+    "id": "area-optimist-bingo-at-grand-oaks",
+    "name": "Optimist Bingo at Grand Oaks",
+    "address": "7919 Auburn Boulevard, Citrus Heights, CA 95610",
+    "url": "https://optimistgo.com/home",
+    "lat": 38.711113041089,
+    "lng": -121.290486460957,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=7919+Auburn+Boulevard%2C+Citrus+Heights%2C+CA+95610&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Mon",
+      "Fri"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "3:00 PM",
+        "session": "6:00 PM",
+        "program": "$35 buy-in"
+      },
+      "Fri": {
+        "doors": "8:00 AM / 3:00 PM",
+        "session": "10:00 AM / 6:00 PM",
+        "program": "Matinee $35; evening $40"
+      }
+    },
+    "buyIn": "Monday evening $35; Friday matinee $35; Friday evening $40",
+    "notes": "Separate physical location from Optimist Sacramento. This record covers the Optimist sessions only, not every charity or every night at Grand Oaks.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "not-visible",
+      "loyalty": "unknown",
+      "hotball": "not-visible"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "feature": "sms",
+        "status": "unknown",
+        "observed": "An Insiders Club signup is advertised, but SMS collection and consent were not established in the reviewed content.",
+        "url": "https://optimistgo.com/home"
+      },
+      {
+        "feature": "presale",
+        "status": "not-visible",
+        "observed": "The reviewed homepage presents packages and game-detail links without a clear online purchasing action.",
+        "url": "https://optimistgo.com/home"
+      },
+      {
+        "feature": "loyalty",
+        "status": "unknown",
+        "observed": "Official homepage displays a testimonial mentioning a points card, but its testimonials also mention other Optimist sessions; no Grand Oaks-specific current rewards rules were found.",
+        "url": "https://optimistgo.com/home"
+      },
+      {
+        "feature": "hotball",
+        "status": "not-visible",
+        "observed": "The reviewed homepage's packages list electronics, paper, Manager's Choice and Double Action without hotball.",
+        "url": "https://optimistgo.com/home"
+      }
+    ],
+    "category": ""
+  },
+  {
+    "id": "area-bd-bingo-sacramento-at-mandarins-event-center",
+    "name": "BD Bingo Sacramento at Mandarins Event Center",
+    "address": "9792 Business Park Drive, Rancho Cordova, CA 95827",
+    "url": "https://bluedevils.org/bingo/sacramento/",
+    "lat": 38.570213282328,
+    "lng": -121.330533538964,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=9792+Business+Park+Drive%2C+Rancho+Cordova%2C+CA+95827&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Tue",
+      "Thu"
+    ],
+    "schedule": {
+      "Tue": {
+        "doors": "4:30 PM",
+        "session": "6:30 PM",
+        "program": "Tuesday program; September 8 special advertised, drive-in canceled"
+      },
+      "Thu": {
+        "doors": "4:30 PM",
+        "session": "6:30 PM",
+        "program": "$35 Thursday; September 10 drive-in canceled"
+      }
+    },
+    "buyIn": "Thursday $35; September 8 special $50; $1 online convenience fee published",
+    "notes": "Useful comparison for integrated texting, presales and prominent must-go offers. Competitor only: excluded from outreach. Mandarins' own bingo closed; its official year-in-review says it leases this facility to Blue Devils.",
+    "promotions": [],
+    "features": {
+      "sms": "yes",
+      "presale": "yes",
+      "loyalty": "not-visible",
+      "hotball": "not-visible"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "feature": "sms",
+        "status": "yes",
+        "observed": "Official page tells players to text Sacramento to 70503 for updates and offers.",
+        "url": "https://bluedevils.org/bingo/sacramento/"
+      },
+      {
+        "feature": "presale",
+        "status": "yes",
+        "observed": "Separate Tuesday and Thursday TicketSpice links are present with online transaction fees.",
+        "url": "https://bluedevils.org/bingo/sacramento/"
+      },
+      {
+        "feature": "loyalty",
+        "status": "not-visible",
+        "observed": "No visit-points or player-loyalty enrollment appears on the reviewed location page.",
+        "url": "https://bluedevils.org/bingo/sacramento/"
+      },
+      {
+        "feature": "hotball",
+        "status": "not-visible",
+        "observed": "Reviewed programs advertise strip games and a Bingo Shark must-go, but do not explicitly describe a hotball.",
+        "url": "https://bluedevils.org/bingo/sacramento/"
+      }
+    ],
+    "category": ""
+  },
+  {
+    "id": "area-24th-street-bingo",
+    "name": "24th Street Bingo",
+    "address": "2350 Florin Road, Sacramento, CA 95822",
+    "url": "https://24thstreet.bingo/",
+    "lat": 38.495696218538,
+    "lng": -121.484225017571,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2350+Florin+Road%2C+Sacramento%2C+CA+95822&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Sun",
+      "Mon",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat"
+    ],
+    "schedule": {
+      "Sun": {
+        "doors": "3:00 PM (opening hour)",
+        "session": "Not verified",
+        "program": "Bingo day published"
+      },
+      "Mon": {
+        "doors": "3:00 PM (opening hour)",
+        "session": "Not verified",
+        "program": "Bingo day published"
+      },
+      "Wed": {
+        "doors": "3:00 PM (opening hour)",
+        "session": "Not verified",
+        "program": "Bingo day published"
+      },
+      "Thu": {
+        "doors": "3:00 PM (opening hour)",
+        "session": "Not verified",
+        "program": "Bingo day published"
+      },
+      "Fri": {
+        "doors": "3:00 PM (opening hour)",
+        "session": "Not verified",
+        "program": "Bingo day published"
+      },
+      "Sat": {
+        "doors": "3:00 PM (opening hour)",
+        "session": "Not verified",
+        "program": "Bingo day published"
+      }
+    },
+    "buyIn": "Routine session buy-in not verified; birthday reservation fee $80 published",
+    "notes": "Strong regional example of text capture, reservation links and a dedicated birthday package. Current homepage footer gives Florin Road; do not copy the older 5401 24th Street address from SEO landing-page prose.",
+    "promotions": [],
+    "features": {
+      "sms": "yes",
+      "presale": "yes",
+      "loyalty": "unknown",
+      "hotball": "yes"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "feature": "sms",
+        "status": "yes",
+        "observed": "Get Text Updates links to the hall's subscription system.",
+        "url": "https://24thstreet.bingo/"
+      },
+      {
+        "feature": "presale",
+        "status": "yes",
+        "observed": "Each bingo day has a Save Your Seat link to an AirMenu page. Reservation pathway visible; payment completion not tested.",
+        "url": "https://24thstreet.bingo/"
+      },
+      {
+        "feature": "loyalty",
+        "status": "unknown",
+        "observed": "VIP appears in navigation and birthday packages are published, but visit-based rewards and club terms were not verified.",
+        "url": "https://24thstreet.bingo/birthdays/"
+      },
+      {
+        "feature": "hotball",
+        "status": "yes",
+        "observed": "A prominent hot-ball jackpot label appears in the site header.",
+        "url": "https://24thstreet.bingo/"
+      }
+    ],
+    "category": ""
+  },
+  {
+    "id": "area-american-legion-fresno-federal-post-509-bingo",
+    "name": "American Legion Fresno Federal Post 509 Bingo",
+    "address": "3509 N. First Street, Fresno, CA 93726",
+    "url": "https://www.ffp509.org/events",
+    "lat": 36.782350219696,
+    "lng": -119.772569146741,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=3509+N.+First+Street%2C+Fresno%2C+CA+93726&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Wed"
+    ],
+    "schedule": {
+      "Wed": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Cash games and progressive jackpots; current page says over 21"
+      }
+    },
+    "buyIn": "Not published in reviewed text; birthday-month $5 discount is published",
+    "notes": "Regional alternative south of Merced rather than a close neighborhood rival. Food, kitchen, birthday incentive and a canned-food promotion are visible. Keep geography clear when comparing.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "feature": "sms",
+        "status": "not-visible",
+        "observed": "No bingo text-subscription action appeared in the reviewed events page.",
+        "url": "https://www.ffp509.org/events"
+      },
+      {
+        "feature": "presale",
+        "status": "not-visible",
+        "observed": "Bingo Get Details leads to contact information; no bingo checkout was visible in reviewed content.",
+        "url": "https://www.ffp509.org/events"
+      },
+      {
+        "feature": "loyalty",
+        "status": "not-visible",
+        "observed": "Birthday-month discount is advertised, but no visit-rewards club or enrollment appears in reviewed page text.",
+        "url": "https://www.ffp509.org/events"
+      },
+      {
+        "feature": "hotball",
+        "status": "unknown",
+        "observed": "The page advertises progressive jackpots without naming the mechanics a hotball.",
+        "url": "https://www.ffp509.org/events"
+      }
+    ],
+    "category": ""
+  },
+  {
+    "id": "scout-modesto-bingo-at-princeton-event-center",
+    "name": "Modesto Bingo at Princeton Event Center",
+    "address": "1640 Princeton Ave, Modesto, CA 95350",
+    "url": "https://www.princetoneventcenter.org/bingo",
+    "lat": 37.6634,
+    "lng": -120.9929,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Sun",
+      "Mon",
+      "Tue",
+      "Thu",
+      "Fri"
+    ],
+    "schedule": {
+      "Sun": {
+        "doors": "3:00 PM",
+        "session": "6:30 PM",
+        "frequency": "Weekly"
+      },
+      "Mon": {
+        "doors": "3:00 PM",
+        "session": "6:30 PM",
+        "frequency": "Weekly"
+      },
+      "Tue": {
+        "doors": "3:00 PM",
+        "session": "6:30 PM",
+        "frequency": "Weekly"
+      },
+      "Thu": {
+        "doors": "3:00 PM",
+        "session": "6:30 PM",
+        "frequency": "Weekly"
+      },
+      "Fri": {
+        "doors": "3:00 PM",
+        "session": "6:30 PM",
+        "frequency": "Weekly"
+      }
+    },
+    "buyIn": "$26 for September 10, 2026; other published programs range $25–$40.",
+    "notes": "Nearby Merced competitor already using website SMS collection and detailed prize-led promotion. Food, drinks and complimentary coffee are advertised.",
+    "promotions": [],
+    "features": {
+      "sms": "yes",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "yes"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "feature": "sms",
+        "status": "yes",
+        "observed": "Phone opt-in form with required consent checkbox, STOP/HELP instructions and recurring bingo text updates.",
+        "url": "https://www.princetoneventcenter.org/bingo"
+      },
+      {
+        "feature": "presale",
+        "status": "not-visible",
+        "observed": "Prices are published; no bingo checkout or advance reservation link appeared on the reviewed bingo page.",
+        "url": "https://www.princetoneventcenter.org/bingo"
+      },
+      {
+        "feature": "loyalty",
+        "status": "not-visible",
+        "observed": "No player rewards enrollment appeared on the reviewed bingo page.",
+        "url": "https://www.princetoneventcenter.org/bingo"
+      },
+      {
+        "feature": "hotball",
+        "status": "yes",
+        "observed": "Multiple hot-ball programs are published, including progressive hot balls and $250 or $500 must-go awards depending on buy-in.",
+        "url": "https://www.princetoneventcenter.org/bingo"
+      }
+    ],
+    "category": ""
+  },
+  {
+    "id": "scout-vanguard-bingo-santa-clara",
+    "name": "Vanguard Bingo – Santa Clara",
+    "address": "1795 Space Park Drive, Santa Clara, CA 95054",
+    "url": "https://www.scvanguard.org/bingo/",
+    "lat": 37.376305351666,
+    "lng": -121.958437981275,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1795+Space+Park+Drive%2C+Santa+Clara%2C+CA+95054&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Mon",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "3:30 PM",
+        "session": "6:30 PM",
+        "program": "Early birds 5:30 PM"
+      },
+      "Fri": {
+        "doors": "3:30 PM",
+        "session": "6:30 PM",
+        "program": "Early birds 5:30 PM"
+      },
+      "Sat": {
+        "doors": "11:00 AM / 5:00 PM",
+        "session": "1:00 PM / 6:30 PM",
+        "program": "Matinee and evening"
+      },
+      "Sun": {
+        "doors": "11:00 AM / 5:00 PM",
+        "session": "1:00 PM / 6:30 PM",
+        "program": "Matinee and evening"
+      }
+    },
+    "buyIn": "Listed packages $50, $75, $100 and $150; separate online Flash option",
+    "notes": "New Bingobuyin ticket links. Repeated schedule says 11 AM weekend doors; one rules section still says 10 AM. A $25 headline conflicts with detailed packages. No live jackpot balance verified.",
+    "promotions": [],
+    "features": {
+      "sms": "yes",
+      "presale": "yes",
+      "loyalty": "not-visible",
+      "hotball": "yes"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Schedule and packages",
+        "observed": "Repeated weekly schedule and package list support the times and prices above; conflicting legacy copy remains on the same page.",
+        "url": "https://www.scvanguard.org/bingo/"
+      },
+      {
+        "topic": "Sales and retention",
+        "observed": "Day-specific Bingobuyin links, reserved seating and three SMS frequencies (all sessions, moderate, events only) are offered. No visit-reward enrollment was visible.",
+        "url": "https://www.scvanguard.org/bingo/"
+      },
+      {
+        "topic": "Hot ball",
+        "observed": "Regular $5 hot-ball entry and $10 Mega Hot Ball Win & Spin are advertised. Example winnings on the page are not current jackpot balances.",
+        "url": "https://www.scvanguard.org/bingo/"
+      }
+    ],
+    "category": ""
+  },
+  {
+    "id": "scout-vanguard-bingo-redwood-city",
+    "name": "Vanguard Bingo – Redwood City",
+    "address": "651 El Camino Real, American Legion Post 105, Redwood City, CA 94063",
+    "url": "https://www.scvanguard.org/bingo-rc/",
+    "lat": 37.487308034614,
+    "lng": -122.235980410178,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=651+El+Camino+Real%2C+American+Legion+Post+105%2C+Redwood+City%2C+CA+94063&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Tue",
+      "Wed",
+      "Thu"
+    ],
+    "schedule": {
+      "Tue": {
+        "doors": "3:30 PM",
+        "session": "6:30 PM",
+        "program": "Early birds 5:30 PM"
+      },
+      "Wed": {
+        "doors": "3:30 PM",
+        "session": "6:30 PM",
+        "program": "Early birds 5:30 PM"
+      },
+      "Thu": {
+        "doors": "3:30 PM",
+        "session": "6:30 PM",
+        "program": "Early birds 5:30 PM"
+      }
+    },
+    "buyIn": "$50 / $75 / $100 / $150 admission packages",
+    "notes": "Presales and reserved seats are prominent. Promotional multiplier paragraphs contain inconsistent month references, so they are not treated as a current dated offer.",
+    "promotions": [],
+    "features": {
+      "sms": "yes",
+      "presale": "yes",
+      "loyalty": "not-visible",
+      "hotball": "yes"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Schedule",
+        "observed": "Tuesday–Thursday doors 3:30 PM, early birds 5:30 PM, main bingo 6:30 PM. Four admission tiers are listed.",
+        "url": "https://www.scvanguard.org/bingo-rc/"
+      },
+      {
+        "topic": "Presales and SMS",
+        "observed": "Daily Bingobuyin links and 2:45 PM online cutoff are published. SMS choices include frequent, moderate and special-event updates.",
+        "url": "https://www.scvanguard.org/bingo-rc/"
+      },
+      {
+        "topic": "Games and rewards",
+        "observed": "Regular and Mega hot-ball offers are visible; the Mega description connects both Vanguard locations. No visit-based player reward enrollment was visible.",
+        "url": "https://www.scvanguard.org/bingo-rc/"
+      }
+    ],
+    "category": ""
+  },
+  {
+    "id": "scout-fairgrounds-bingo",
+    "name": "Fairgrounds Bingo",
+    "address": "344 Tully Road, Gate C, San Jose, CA 95111",
+    "url": "https://www.thefairgrounds.org/bingo/",
+    "lat": 37.304677903978,
+    "lng": -121.852401805505,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=344+Tully+Road%2C+Gate+C%2C+San+Jose%2C+CA+95111&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Wed",
+      "Thu"
+    ],
+    "schedule": {
+      "Wed": {
+        "doors": "4:30 PM",
+        "session": "6:30 PM early birds / 7:00 PM regular",
+        "program": "Paper, flash and strip games"
+      },
+      "Thu": {
+        "doors": "4:30 PM",
+        "session": "6:30 PM early birds / 7:00 PM regular",
+        "program": "Paper, flash and strip games"
+      }
+    },
+    "buyIn": "Current buy-in amount not verified in readable page text",
+    "notes": "September schedule is image-based. Volunteer-run bingo benefits county fair youth programs; free parking and coffee, security patrols and a snack bar are promoted.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Schedule",
+        "observed": "Wednesday/Thursday doors 4:30 PM; early birds 6:30 PM, regular games 7 PM. Snack bar opens 5 PM.",
+        "url": "https://www.thefairgrounds.org/bingo/"
+      },
+      {
+        "topic": "Marketing",
+        "observed": "Promotions direct visitors to social networks; a photo contest offers prizes. No presale checkout, SMS collection or visit-reward enrollment appeared in reviewed page text.",
+        "url": "https://www.thefairgrounds.org/bingo/"
+      },
+      {
+        "topic": "Limits",
+        "observed": "Image program details were not independently transcribed. Absence of a hot-ball reference in text does not establish that no hot ball is played.",
+        "url": "https://www.thefairgrounds.org/bingo/"
+      }
+    ],
+    "category": ""
+  },
+  {
+    "id": "scout-foothill-square-bingo",
+    "name": "Foothill Square Bingo",
+    "address": "10700 MacArthur Boulevard, Oakland, CA 94605",
+    "url": "https://www.facebook.com/foothillsquarebingo/",
+    "lat": 37.741811,
+    "lng": -122.150371,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [],
+    "schedule": {},
+    "buyIn": "Unverified",
+    "notes": "Official Facebook access was blocked. Scout address/coordinates retained for discovery only; its seven-day schedule and $20–$40 prices were not reverified and must not be presented as current.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Review limitation",
+        "observed": "The supplied official Facebook URL returned a temporary-block page. Current program, pricing and player features could not be inspected.",
+        "url": "https://www.facebook.com/foothillsquarebingo/"
+      }
+    ],
+    "category": ""
+  },
+  {
+    "id": "scout-hot-shots-bingo",
+    "name": "Hot Shots Bingo",
+    "address": "961 Garcia Avenue, Suites E & F, Pittsburg, CA 94565",
+    "url": "https://www.norcalhotshots.com/bingo/",
+    "lat": 38.010907104676,
+    "lng": -121.875918083095,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=961+Garcia+Avenue+E+%26+F%2C+Pittsburg%2C+CA+94565&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Mon",
+      "Wed",
+      "Thu",
+      "Fri"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "4:00 PM",
+        "session": "6:30 PM",
+        "program": "Published hall hours"
+      },
+      "Wed": {
+        "doors": "4:00 PM",
+        "session": "6:30 PM",
+        "program": "Published hall hours; Wednesday online storefront also found"
+      },
+      "Thu": {
+        "doors": "4:00 PM",
+        "session": "6:30 PM",
+        "program": "Published hall hours"
+      },
+      "Fri": {
+        "doors": "4:00 PM",
+        "session": "6:30 PM",
+        "program": "Published hall hours"
+      }
+    },
+    "buyIn": "Current amount not verified",
+    "notes": "Old hotshotsbingo.com redirects to a domain-sale page. Charity site lists Mon/Wed/Thu/Fri, while older seat rules still mention Thu–Sun. Storefront advertises Wednesday ordering but current event inventory was not verified.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "yes",
+      "loyalty": "yes",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Official program",
+        "observed": "Nor-Cal Hot Shots charity site lists the address, 4 PM doors, 6:30 PM games and a point-redemption program. Signup exists, but SMS consent/channel was not established.",
+        "url": "https://www.norcalhotshots.com/bingo/"
+      },
+      {
+        "topic": "Presales",
+        "observed": "A matching hall storefront advertises Wednesday online buy-ins, seat reservations and prepared pickups.",
+        "url": "https://hotshotsbingo.shop/"
+      },
+      {
+        "topic": "Stale link",
+        "observed": "The former .com hall URL now lands on a domain-sale listing.",
+        "url": "https://www.hugedomains.com/domain_profile.cfm?d=hotshotsbingo.com"
+      }
+    ],
+    "category": ""
+  },
+  {
+    "id": "scout-bd-bingo-concord-blue-devils-aquanuts",
+    "name": "BD Bingo Concord (Blue Devils / Aquanuts)",
+    "address": "4065 Nelson Avenue, Concord, CA 94520",
+    "url": "https://bluedevils.org/bingo/concord/",
+    "lat": 38.00929062326,
+    "lng": -122.044031810437,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=4065+Nelson+Avenue%2C+Concord%2C+CA+94520&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "schedule": {
+      "Tue": {
+        "doors": "10:00 AM daytime / 4:30 PM evening",
+        "session": "11:00 AM / 6:00 PM",
+        "program": "Daytime BD; evening Aquanuts"
+      },
+      "Wed": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Evening"
+      },
+      "Thu": {
+        "doors": "10:00 AM / 4:00 PM",
+        "session": "11:00 AM / 6:00 PM",
+        "program": "Daytime and evening"
+      },
+      "Fri": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Evening"
+      },
+      "Sat": {
+        "doors": "4:00 PM",
+        "session": "6:00 PM",
+        "program": "Evening"
+      },
+      "Sun": {
+        "doors": "10:30 AM / 4:30 PM",
+        "session": "12:30 PM / 6:00 PM",
+        "program": "BD matinee; Aquanuts evening"
+      }
+    },
+    "buyIn": "Daytime Tue/Thu $25; Wednesday/Saturday $60; Sunday matinee $35; Aquanuts $45–$105",
+    "notes": "Monday page item is dated Labor Day, not recurring. Aquanuts-specific page supplies evening door times. No current hot-ball balance verified.",
+    "promotions": [],
+    "features": {
+      "sms": "yes",
+      "presale": "yes",
+      "loyalty": "not-visible",
+      "hotball": "not-visible"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Presales",
+        "observed": "Day-specific ticket links and an advance-purchase incentive are published. Tuesday/Thursday daytime exclude online presales.",
+        "url": "https://bluedevils.org/bingo/concord/"
+      },
+      {
+        "topic": "Retention and games",
+        "observed": "SMS signup and must-go/progressive offers are visible; no visit-reward enrollment or named hot ball was found in reviewed text.",
+        "url": "https://bluedevils.org/bingo/concord/"
+      },
+      {
+        "topic": "Aquanuts",
+        "observed": "Tuesday/Sunday evening doors 4:30 PM, games 6 PM; all sales on-site.",
+        "url": "https://bluedevils.org/bingo/aquanuts/"
+      }
+    ],
+    "category": ""
+  },
+  {
+    "id": "scout-bd-bingo-pleasanton-alameda-county-fairgrounds",
+    "name": "BD Bingo Pleasanton (Alameda County Fairgrounds)",
+    "address": "Alameda County Fairgrounds, 2100 Valley Avenue, Pleasanton, CA 94566",
+    "url": "https://bluedevils.org/bingo/pleasanton/",
+    "lat": 37.6737053,
+    "lng": -121.8604252,
+    "coordinateSource": "Bingo Scout supplied location",
+    "days": [
+      "Tue",
+      "Sat"
+    ],
+    "schedule": {
+      "Tue": {
+        "doors": "5:00 PM",
+        "session": "6:30 PM",
+        "program": "September 1 dated event; recurring Tuesday schedule not independently established",
+        "dates": [
+          "2026-09-01"
+        ]
+      },
+      "Sat": {
+        "doors": "5:00 PM",
+        "session": "6:30 PM",
+        "program": "Second Chance Saturday; indoor, on-site sales"
+      }
+    },
+    "buyIn": "Saturday $40; dated September 1 Tuesday offer $65",
+    "notes": "Current page shows Tuesday September 1 and Saturday offers; Scout's every-other-Sunday entry was not reverified. Do not infer an ongoing Tuesday online program from one past event.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "yes",
+      "loyalty": "not-visible",
+      "hotball": "not-visible"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Schedule",
+        "observed": "Both displayed offers use 5 PM doors and 6:30 PM games; Tuesday is explicitly dated September 1.",
+        "url": "https://bluedevils.org/bingo/pleasanton/"
+      },
+      {
+        "topic": "Purchasing",
+        "observed": "Tuesday buy-in link offers reserved seating and online extras. Saturday text says indoor, all sales on-site. Presale availability is session-specific.",
+        "url": "https://bluedevils.org/bingo/pleasanton/"
+      },
+      {
+        "topic": "Features",
+        "observed": "Progressive and second-chance games are listed. No current SMS signup, visit reward, or named hot ball was established on this page.",
+        "url": "https://bluedevils.org/bingo/pleasanton/"
+      }
+    ],
+    "category": ""
+  },
+  {
+    "id": "milpitas-charity",
+    "name": "Milpitas Charity Bingo",
+    "address": "461 South Milpitas Boulevard, Suite 3, Milpitas, CA 95035",
+    "url": "https://milpitascharitybingo.com/",
+    "lat": 37.425581523617,
+    "lng": -121.895006966026,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=461+South+Milpitas+Boulevard%2C+Milpitas%2C+CA+95035&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Mon",
+      "Thu",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "schedule": {
+      "Mon": {
+        "doors": "3:30 PM",
+        "session": "6:30 PM",
+        "program": "Evening"
+      },
+      "Thu": {
+        "doors": "3:30 PM",
+        "session": "6:30 PM",
+        "program": "Evening"
+      },
+      "Fri": {
+        "doors": "3:30 PM",
+        "session": "6:30 PM",
+        "program": "Evening"
+      },
+      "Sat": {
+        "doors": "10:00 AM",
+        "session": "12:00 PM matinee; evening time not separately stated",
+        "program": "Hall hours through 10 PM"
+      },
+      "Sun": {
+        "doors": "10:00 AM",
+        "session": "12:00 PM matinee; evening time not separately stated",
+        "program": "Hall hours through 10 PM"
+      }
+    },
+    "buyIn": "$50 / $80 / $110 / $150 / $200 packages; inclusions vary by day",
+    "notes": "Corrects Scout's 3 PM weekday and 11 AM weekend doors. AirMenu web reservations and mobile app are prominent.",
+    "promotions": [],
+    "features": {
+      "sms": "yes",
+      "presale": "yes",
+      "loyalty": "unknown",
+      "hotball": "yes"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Schedule and purchasing",
+        "observed": "Published times support the schedule above. AirMenu portal, seat map and advance pickup are described; text MCB to 70503.",
+        "url": "https://milpitascharitybingo.com/"
+      },
+      {
+        "topic": "Games and rewards",
+        "observed": "Package page lists $5 hot-ball entry and app promotions. A current hot-ball jackpot or full visit-based loyalty program was not verified.",
+        "url": "https://milpitascharitybingo.com/buy-in-packages-payouts/"
+      }
+    ],
+    "category": "",
+    "prospect": true
+  },
+  {
+    "id": "area-atascadero-elks-lodge-2733-bingo",
+    "name": "Atascadero Elks Lodge #2733 Bingo",
+    "address": "1516 El Camino Real, Atascadero, CA 93422",
+    "url": "https://elks2733.org/events/bingo/",
+    "lat": 35.517557517309,
+    "lng": -120.700860274561,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=1516+El+Camino+Real%2C+Atascadero%2C+CA+93422&benchmark=Public_AR_Current&format=json",
+    "days": [
+      "Sun"
+    ],
+    "schedule": {
+      "Sun": {
+        "doors": "11:00 AM",
+        "session": "12:00 PM",
+        "program": "Public bingo; September 13 event verified",
+        "dates": [
+          "2026-09-13"
+        ]
+      }
+    },
+    "buyIn": "Not verified on official event page",
+    "notes": "Nearby SLO County comparison. Current official event starts at noon, superseding older 2023 reporting of 12:30 PM. Do not assume all Sundays from a single event page.",
+    "promotions": [],
+    "features": {
+      "sms": "not-visible",
+      "presale": "not-visible",
+      "loyalty": "not-visible",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Dated event",
+        "observed": "Official listing for September 13, 2026 states public bingo, 11 AM doors/concessions and noon games.",
+        "url": "https://elks2733.org/events/bingo/"
+      },
+      {
+        "topic": "Player features",
+        "observed": "No player presale link, SMS enrollment or visit-reward program was visible on the event page. Full game program was not shown.",
+        "url": "https://elks2733.org/events/bingo/"
+      }
+    ],
+    "category": ""
+  },
+  {
+    "id": "scout-mcc-bingo-american-legion-post-564",
+    "name": "MCC Bingo (American Legion Post 564)",
+    "address": "2120 Walsh Avenue, Santa Clara, CA 95050",
+    "url": "https://mccbingo.com/",
+    "lat": 37.369409227383,
+    "lng": -121.961876701234,
+    "coordinateSource": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=2120+Walsh+Avenue%2C+Santa+Clara%2C+CA+95050&benchmark=Public_AR_Current&format=json",
+    "days": [],
+    "schedule": {},
+    "buyIn": "Unverified",
+    "notes": "Site currently returns a default hosting page. Scout's schedule, online reservations and game details were not reverified; keep as a research lead, not a current operating-program claim.",
+    "promotions": [],
+    "features": {
+      "sms": "unknown",
+      "presale": "unknown",
+      "loyalty": "unknown",
+      "hotball": "unknown"
+    },
+    "reviewed": "2026-09-10",
+    "origin": "Website review",
+    "evidence": [
+      {
+        "topic": "Website status",
+        "observed": "Direct public request returned a default server vhost message saying domain pointing/propagation was incomplete.",
+        "url": "https://mccbingo.com/"
+      }
+    ],
+    "category": ""
+  }
+]

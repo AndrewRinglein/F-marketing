@@ -1,0 +1,12 @@
+/* Shared by the map, directory and build checks. Distances are straight-line miles. */
+function compMiles(a,b){const r=Math.PI/180,dlat=(b.lat-a.lat)*r,dlng=(b.lng-a.lng)*r;return 3958.7613*2*Math.asin(Math.sqrt(Math.sin(dlat/2)**2+Math.cos(a.lat*r)*Math.cos(b.lat*r)*Math.sin(dlng/2)**2));}
+function compNearby(data,origin,radius=50,day=''){return data.filter(h=>h.id!==origin.id).map(h=>({...h,distance:compMiles(origin,h),sameDays:h.days.filter(d=>origin.days.includes(d))})).filter(h=>h.distance<=radius&&(!day||h.days.includes(day))).sort((a,b)=>a.distance-b.distance||a.name.localeCompare(b.name));}
+function compState(value){return ['yes','visible',true].includes(value)?'yes':value==='not-visible'?'not-visible':'unknown';}
+function compLabel(value){return value==='yes'?'Visible':value==='listed'?'Listed in Bingo Scout':value==='not-visible'?'Not found on reviewed page':'Not checked';}
+function compOpportunities(origin,nearby){
+ const verified=nearby.filter(h=>h.reviewed),features=['sms','presale','loyalty'];
+ const titles={sms:'Turn a website visit into the next visit.',presale:'Get players committed before game day.',loyalty:'Give regulars a reason to choose you again.'};
+ const advice={sms:origin.features.sms==='yes'?'You already promote texting. Give each text one reason to come, one session time and one direct presale link.':'Put “Get bingo text alerts” beside your next session. A short signup lets you reach interested players before they choose another hall.',presale:origin.features.presale==='yes'?'Make your existing advance-order path the easiest button to find. Show the pack price, sales deadline and pickup instructions together.':'Offer a simple presale pack beside the schedule. Let players choose their night and buy while they are making plans.',loyalty:origin.features.loyalty==='yes'?'Bring your existing rewards forward on the website. Show players what their next visit earns and make enrollment easy.':'Add “Enroll in our loyalty program” with one easy-to-understand return-visit benefit. Track visits so regulars feel recognized.'};
+ const ordered=origin.features.sms==='yes'?['presale','loyalty','sms']:features;
+ return ordered.map(k=>{const example=verified.find(h=>h.features[k]==='yes');return {key:k,title:titles[k],text:advice[k],example:example?`${example.name} already makes ${k==='sms'?'text alerts':k==='presale'?'advance ordering':'player rewards'} visible on a public page.`:''};});
+}

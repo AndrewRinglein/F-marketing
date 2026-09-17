@@ -4,160 +4,239 @@
     "city": "Hawaiian Gardens",
     "email": "Recipient email needed",
     "website": "https://andrewringlein.github.io/F-marketing/hawaiian-gardens/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/hawaiian-gardens/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/hawaiian-gardens/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/hawaiian-gardens/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/hawaiian-gardens/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/hawaiian-gardens"
   },
   {
     "name": "McAlister Bingo",
     "city": "El Cajon",
     "email": "giving@mcalisterinc.org",
     "website": "https://andrewringlein.github.io/F-marketing/mcalister/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/mcalister/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/mcalister/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/mcalister/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/mcalister/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/mcalister"
   },
   {
     "name": "Bosco Bingo",
     "city": "Bellflower",
     "email": "dbenitez@bosco.org",
     "website": "https://andrewringlein.github.io/F-marketing/bosco/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/bosco/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/bosco/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/bosco/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/bosco/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/bosco"
   },
   {
     "name": "Vai O Le Ola",
     "city": "Lakewood",
     "email": "bingo@vaioleola.org",
     "website": "https://andrewringlein.github.io/F-marketing/vai-o-le-ola/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/vai-o-le-ola/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/vai-o-le-ola/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/vai-o-le-ola/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/vai-o-le-ola/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/vai-o-le-ola"
   },
   {
     "name": "Duarte Elks",
     "city": "Duarte",
     "email": "elks1427duarte@gmail.com",
     "website": "https://andrewringlein.github.io/F-marketing/duarte-elks/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/duarte-elks/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/duarte-elks/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/duarte-elks/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/duarte-elks/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/duarte-elks"
   },
   {
     "name": "Simi Valley Elks",
     "city": "Simi Valley",
     "email": "bpoelks2492@peoplepc.com",
     "website": "https://andrewringlein.github.io/F-marketing/simi-valley-elks/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/simi-valley-elks/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/simi-valley-elks/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/simi-valley-elks/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/simi-valley-elks/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/simi-valley-elks"
   },
   {
     "name": "Simi Knights",
     "city": "Simi Valley",
     "email": "webmaster@kc5803.org",
     "website": "https://andrewringlein.github.io/F-marketing/simi-knights/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/simi-knights/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/simi-knights/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/simi-knights/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/simi-knights/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/simi-knights"
   },
   {
     "name": "Arcadia Elks",
     "city": "Arcadia",
     "email": "artemp2025@aol.com",
     "website": "https://andrewringlein.github.io/F-marketing/arcadia-elks/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/arcadia-elks/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/arcadia-elks/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/arcadia-elks/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/arcadia-elks/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/arcadia-elks"
   },
   {
     "name": "Garden Grove Elks",
     "city": "Garden Grove",
     "email": "bpoe1952@pacbell.net",
     "website": "https://andrewringlein.github.io/F-marketing/garden-grove-elks/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/garden-grove-elks/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/garden-grove-elks/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/garden-grove-elks/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/garden-grove-elks/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/garden-grove-elks"
   },
   {
     "name": "SDA Bingo",
     "city": "Anaheim",
     "email": "foundation@sapoluacademy.org",
     "website": "https://andrewringlein.github.io/F-marketing/sapolu-academy/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/sapolu-academy/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/sapolu-academy/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/sapolu-academy/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/sapolu-academy/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/sapolu-academy"
   },
   {
     "name": "Russian River Sisters",
     "city": "Santa Rosa",
     "email": "bingo@rrsisters.org",
     "website": "https://andrewringlein.github.io/F-marketing/russian-river-sisters/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/russian-river-sisters/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/russian-river-sisters/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/russian-river-sisters/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/russian-river-sisters/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/russian-river-sisters"
   },
   {
     "name": "Davis Odd Fellows",
     "city": "Davis",
     "email": "superfood@gmail.com",
     "website": "https://andrewringlein.github.io/F-marketing/davis-odd-fellows/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/davis-odd-fellows/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/davis-odd-fellows/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/davis-odd-fellows/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/davis-odd-fellows/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/davis-odd-fellows"
   },
   {
     "name": "Durant Square",
     "city": "Oakland",
     "email": "support@durantbingo.com",
     "website": "https://andrewringlein.github.io/F-marketing/durant-square/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/durant-square/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/durant-square/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/durant-square/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/durant-square/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/durant-square"
   },
   {
     "name": "Merced Elks",
     "city": "Merced",
     "email": "elks1240@gmail.com",
     "website": "https://andrewringlein.github.io/F-marketing/merced-elks/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/merced-elks/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/merced-elks/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/merced-elks/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/merced-elks/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/merced-elks"
   },
   {
     "name": "Woodland Elks",
     "city": "Woodland",
     "email": "elks1299office@wavecable.com",
     "website": "https://andrewringlein.github.io/F-marketing/woodland-elks/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/woodland-elks/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/woodland-elks/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/woodland-elks/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/woodland-elks/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/woodland-elks"
   },
   {
     "name": "SLO Elks",
     "city": "San Luis Obispo",
     "email": "secretary@elks322.org",
     "website": "https://andrewringlein.github.io/F-marketing/san-luis-obispo-elks/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/san-luis-obispo-elks/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/san-luis-obispo-elks/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/san-luis-obispo-elks/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/san-luis-obispo-elks/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/san-luis-obispo-elks"
   },
   {
     "name": "Santa Cruz Elks",
     "city": "Santa Cruz",
     "email": "sec824@santacruzelks.org",
     "website": "https://andrewringlein.github.io/F-marketing/santa-cruz-elks/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/santa-cruz-elks/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/santa-cruz-elks/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/santa-cruz-elks/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/santa-cruz-elks/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/santa-cruz-elks"
   },
   {
     "name": "Ventura Elks Bingo",
     "city": "Ventura",
     "email": "bpoeventura1430@gmail.com",
     "website": "https://andrewringlein.github.io/F-marketing/ventura-elks/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/ventura-elks/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/ventura-elks/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/ventura-elks/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/ventura-elks/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/ventura-elks"
   },
   {
     "name": "Daub 4 Kids",
     "city": "Oakley",
     "email": "daub4kidsbingosocials@gmail.com",
     "website": "https://andrewringlein.github.io/F-marketing/daub-4-kids/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/daub-4-kids/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/daub-4-kids/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/daub-4-kids/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/daub-4-kids/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/daub-4-kids"
   },
   {
     "name": "Milpitas Charity Bingo",
     "city": "Milpitas",
     "email": "info@milpitascharitybingo.com",
     "website": "https://andrewringlein.github.io/F-marketing/milpitas-charity/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/milpitas-charity/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/milpitas-charity/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/milpitas-charity/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/milpitas-charity/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/milpitas-charity"
   },
   {
     "name": "Broadway Bingo",
     "city": "Salinas",
     "email": "salinasbroadwaybingo@gmail.com",
     "website": "https://andrewringlein.github.io/F-marketing/broadway-salinas/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/broadway-salinas/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/broadway-salinas/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/broadway-salinas/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/broadway-salinas/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/broadway-salinas"
   },
   {
     "name": "Park Place Bingo",
     "city": "Salinas",
     "email": "ParkPlaceBingo@gmail.com",
     "website": "https://andrewringlein.github.io/F-marketing/park-place/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/park-place/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/park-place/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/park-place/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/park-place/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/park-place"
   },
   {
     "name": "Fremont Elks Bingo",
     "city": "Fremont",
     "email": "msheydt@aol.com",
     "website": "https://andrewringlein.github.io/F-marketing/fremont-elks/index.html",
-    "plan": "https://andrewringlein.github.io/F-marketing/fremont-elks/plan.html"
+    "plan": "https://andrewringlein.github.io/F-marketing/fremont-elks/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/fremont-elks/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/fremont-elks/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/fremont-elks"
+  },
+  {
+    "name": "Aquamaids Bingo",
+    "city": "Santa Clara",
+    "email": "bingoconnect@aquamaids.org",
+    "website": "https://andrewringlein.github.io/F-marketing/aquamaids/index.html",
+    "plan": "https://andrewringlein.github.io/F-marketing/aquamaids/plan.html",
+    "competition": "https://andrewringlein.github.io/F-marketing/aquamaids/competition.html",
+    "comparison": "https://andrewringlein.github.io/F-marketing/aquamaids/competitors.html",
+    "followup": "https://andrewringlein.github.io/F-marketing/#/followups/aquamaids"
   }
 ]
